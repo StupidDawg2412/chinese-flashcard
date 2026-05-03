@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "PowerShell(Get-ChildItem \"C:\\\\Users\\\\เสกสรรค์โนนมี\\\\repos\\\\HSK-3.0\\\\New HSK \\(2025\\)\\\\Audio\\\\\" | Select-Object -First 20 | ForEach-Object { $_.Name })"
+    ]
+  }
+}
