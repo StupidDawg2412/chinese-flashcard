@@ -1,0 +1,8 @@
+Website = "https://github.com/StupidDawg2412/chinese-flashcard"
+
+[Details]
+Icon = "icon.png"
+Name = "HSK Flashcards"
+ID = "com.hsk.flashcards"
+Version = "1.0.0"
+Build = 2
