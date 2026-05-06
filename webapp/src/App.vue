@@ -88,6 +88,28 @@ onUnmounted(() => window.removeEventListener('keydown', handleKey))
 function setLevel(l) {
   currentLevel.value = l
 }
+
+const downloadState = ref({ active: false, done: 0, total: 0 })
+
+async function downloadOfflinePack() {
+  const words = cardsData.value
+    .map(c => c.simplified)
+    .filter(w => audioSet.has(w))
+  if (!words.length) return
+  downloadState.value = { active: true, done: 0, total: words.length }
+  const concurrency = 8
+  let i = 0
+  async function worker() {
+    while (i < words.length) {
+      const w = words[i++]
+      try { await fetch(`/audio/cmn-${encodeURIComponent(w)}.mp3`, { cache: 'reload' }) }
+      catch {}
+      downloadState.value.done++
+    }
+  }
+  await Promise.all(Array.from({ length: concurrency }, worker))
+  downloadState.value.active = false
+}
 </script>
 
 <template>
@@ -163,6 +185,14 @@ function setLevel(l) {
         </label>
         <button v-if="knownCount > 0" class="reset-btn" @click="resetProgress">
           Reset progress
+        </button>
+      </div>
+
+      <div class="offline-row">
+        <button class="offline-btn" :disabled="downloadState.active" @click="downloadOfflinePack">
+          {{ downloadState.active
+            ? `Caching audio… ${downloadState.done}/${downloadState.total}`
+            : `Download audio for offline (level ${currentLevel})` }}
         </button>
       </div>
 
@@ -384,6 +414,24 @@ h1 {
   border: 1px solid transparent;
 }
 .reset-btn:hover { border-color: #FB7185; }
+
+.offline-row {
+  width: 100%;
+  max-width: 480px;
+  display: flex;
+  justify-content: center;
+}
+
+.offline-btn {
+  font-size: 12px;
+  color: var(--muted);
+  padding: 6px 12px;
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  background: var(--surface);
+}
+.offline-btn:hover:not(:disabled) { color: #38BDF8; border-color: #38BDF8; }
+.offline-btn:disabled { opacity: 0.6; cursor: default; }
 
 .shortcuts-hint {
   font-size: 11px;
