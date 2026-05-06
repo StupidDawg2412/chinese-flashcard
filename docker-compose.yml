@@ -1,7 +1,0 @@
-services:
-  go-test:
-    container_name: go-test-container
-    image: go-small:1
-    env_file:
-      - .env
-
