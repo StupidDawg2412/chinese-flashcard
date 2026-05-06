@@ -1,1 +1,4 @@
 .env
+webapp/node_modules/
+webapp/src/data/
+webapp/dist/

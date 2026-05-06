@@ -1,0 +1,6764 @@
+[
+  {
+    "id": null,
+    "traditional": "爱心",
+    "simplified": "àixīn",
+    "pinyin": "liking, pity, love, benevolence, mercy, fondness, commitment",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "安排",
+    "simplified": "ānpái",
+    "pinyin": "arrange, plan, fix up, provide (meals/etc.)",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "安装",
+    "simplified": "ānzhuāng",
+    "pinyin": "install, erect, fix, mount",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "按照",
+    "simplified": "ànzhào",
+    "pinyin": "according to, in the light of, on the basis of",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "按",
+    "simplified": "àn",
+    "pinyin": "according to, in accordance with",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "把握",
+    "simplified": "bǎwò",
+    "pinyin": "grasp firmly",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "把",
+    "simplified": "bǎ",
+    "pinyin": "indicating pre-verbal object as thing dealt with by the action",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "白菜",
+    "simplified": "báicài",
+    "pinyin": "Chinese cabbage, pak choi, CL:棵[ke1], 個|个[ge4]",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "搬",
+    "simplified": "bān",
+    "pinyin": "copy mechanically, remove, apply indiscriminately, take away, transfer, move, move (house)",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "白",
+    "simplified": "bái",
+    "pinyin": "white, clear, pure, plain, wrongly written/mispronounced,",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "班级",
+    "simplified": "bānjí",
+    "pinyin": "classes and grades in school",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "搬家",
+    "simplified": "bān jiā",
+    "pinyin": "to move house, removal",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "办理",
+    "simplified": "bànlǐ",
+    "pinyin": "handle, manage, attend, conduct, enact, transact, transaction",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "板",
+    "simplified": "bǎn",
+    "pinyin": "see 老闆|老板, boss, to catch sight of in a doorway (old)",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "保安",
+    "simplified": "bǎoān",
+    "pinyin": "to ensure public security, to ensure safety (for workers engaged in production), public security, security guard",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "保持",
+    "simplified": "bǎochí",
+    "pinyin": "keep, maintain, preserve",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "保存",
+    "simplified": "bǎocún",
+    "pinyin": "preserve, conserve, keep",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "保",
+    "simplified": "bǎo",
+    "pinyin": "keep, maintenance, preserve soil moisture, stand guarantor, defend, protection, ensure, stand guarantor for sb., preserve, preservation, warrant, bail, defence, protect, maintain, seek, guarantee",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "保留",
+    "simplified": "bǎoliú",
+    "pinyin": "continue to have, retain, hold back, reserve",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "保险",
+    "simplified": "bǎoxiǎn",
+    "pinyin": "insurance",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "保证",
+    "simplified": "bǎozhèng",
+    "pinyin": "pledge, guarantee",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "保护",
+    "simplified": "bǎohù",
+    "pinyin": "protect, safeguard",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "报到",
+    "simplified": "bào dào",
+    "pinyin": "check in, register, registration, report for duty, appear, report, check_in",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "背",
+    "simplified": "bèi",
+    "pinyin": "learn by heart, recite from memory",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "报道",
+    "simplified": "bàodào",
+    "pinyin": "to report (news), report, CL:篇[pian1],份[fen4]",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "北部",
+    "simplified": "běibù",
+    "pinyin": "the north, the northern part of the country, northern part",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "报",
+    "simplified": "bào",
+    "pinyin": "newspaper, periodical, bulletin, telegram",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "报告",
+    "simplified": "bàogào",
+    "pinyin": "report, speech, (student) term paper",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "背后",
+    "simplified": "bèihòu",
+    "pinyin": "rear, in the rear, behind, rearward, at the back, backside, back end",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "本来",
+    "simplified": "běnlái",
+    "pinyin": "originally, at first, of course",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "本领",
+    "simplified": "běnlǐng",
+    "pinyin": "skill, ability, capability, CL:項|项[xiang4],個|个[ge4]",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "被",
+    "simplified": "bèi",
+    "pinyin": "by",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "比较",
+    "simplified": "bǐjiào",
+    "pinyin": "relatively, fairly",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "比例",
+    "simplified": "bǐlì",
+    "pinyin": "proportional, rate, proportionality, quotient, proportion, proportionment, scale, ratio, balance",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "比赛",
+    "simplified": "bǐsài",
+    "pinyin": "match, competition",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "必然",
+    "simplified": "bìrán",
+    "pinyin": "surely, inevitably, pardi, certainly",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "被子",
+    "simplified": "bèizi",
+    "pinyin": "quilt, CL:床[chuang2]",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "变化",
+    "simplified": "biànhuà",
+    "pinyin": "change, transformation",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "本事",
+    "simplified": "běnshi",
+    "pinyin": "literary source material, know-how, proficiency, skill, prowess, this matter, ability, capability",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "变为",
+    "simplified": "biànwéi",
+    "pinyin": "change to, become",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "必要",
+    "simplified": "bìyào",
+    "pinyin": "necessary, indispensable",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "表达",
+    "simplified": "biǎodá",
+    "pinyin": "express, convey, voice",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "标准",
+    "simplified": "biāozhǔn",
+    "pinyin": "standard, criterion",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "标题",
+    "simplified": "biāotí",
+    "pinyin": "head, headline, title, superscription, statute title, header, headword, caption, cutline, rubric, heading",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "表格",
+    "simplified": "biǎogé",
+    "pinyin": "tabular array, tabulation, table, form, blank, tabular matter",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "表面",
+    "simplified": "biǎomiàn",
+    "pinyin": "crust, superficial, facing, show, exterior, obverse, rind, face, superficies, top, outside, appearance, facade, surface, bosom, window dressing",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "表明",
+    "simplified": "biǎomíng",
+    "pinyin": "argue, utter, disclose, enunciate, indicate, speak_for, make clear, indication, prove, point, express, manifest, tell, state clearly, give, denote, evince, unfold, portend, declare, kithe, make known, signalize",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "表演",
+    "simplified": "biǎoyǎn",
+    "pinyin": "perform, act, play, demonstrate",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "表现",
+    "simplified": "biǎoxiàn",
+    "pinyin": "manifestation, expression",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "播出",
+    "simplified": "bō chū",
+    "pinyin": "broadcast, disseminate",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "并且",
+    "simplified": "bìngqiě",
+    "pinyin": "conj.: and, besides, moreover",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "播放",
+    "simplified": "bōfàng",
+    "pinyin": "broadcast, transmit",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "不必",
+    "simplified": "bùbì",
+    "pinyin": "need not, not have to",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "并",
+    "simplified": "bìng",
+    "pinyin": "to be side by side, simultaneously, and",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "不论",
+    "simplified": "bùlùn",
+    "pinyin": "conj.: no matter how/who/what/etc.",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "补",
+    "simplified": "bǔ",
+    "pinyin": "mend, patch, nourish, supplementary",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "不断",
+    "simplified": "bùduàn",
+    "pinyin": "unceasingly, continuously",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "补充",
+    "simplified": "bǔchōng",
+    "pinyin": "supply, supplement, augment, replenishment, complement, eke, fill again, accompany, add, renew, replenish, implement, stock, recruit, refill",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "不得不",
+    "simplified": "bùdébù",
+    "pinyin": "cannot but, have to",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "不安",
+    "simplified": "bùān",
+    "pinyin": "be anxious; be uneasy; be restless",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "不光",
+    "simplified": "bùguāng",
+    "pinyin": "not the only one, not only",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "不仅",
+    "simplified": "bùjǐn",
+    "pinyin": "conj.: not only",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "布",
+    "simplified": "bù",
+    "pinyin": "cloth",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "步",
+    "simplified": "bù",
+    "pinyin": "m.[activity]",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "部门",
+    "simplified": "bùmén",
+    "pinyin": "category, section, department, service, instrumentality, branch, realm, sector, ministry, province, divisional, classification, departmental, division",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "部",
+    "simplified": "bù",
+    "pinyin": "m.[general]",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "部长",
+    "simplified": "bùzhǎng",
+    "pinyin": "commissar, manager, superintendent, cabinet minister, head of a section, minister, political commissar, ministerial, secretary, government minister, president, head of a department",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "才能",
+    "simplified": "cáinéng",
+    "pinyin": "ability, talent",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "采取",
+    "simplified": "cǎiqǔ",
+    "pinyin": "operate, assume, adopt, accept, strike, take, take up, take over, borrow",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "彩色",
+    "simplified": "cǎisè",
+    "pinyin": "colour, chromatic, multicolour, colorful",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "采用",
+    "simplified": "cǎiyòng",
+    "pinyin": "invoke, admit, assume, adoptive, use, adopt, select for use, embrace, accept, employment, take, introduce, take up, take_on, take over, take on, borrow, employ, adoption",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "曾经",
+    "simplified": "céngjīng",
+    "pinyin": "in one case, , one time, formerly, syne, at one time, of all time, once, ever",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "产生",
+    "simplified": "chǎnshēng",
+    "pinyin": "come into being, produce, engender, emerge",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "长处",
+    "simplified": "chángchu",
+    "pinyin": "good aspects, strong points",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "长城",
+    "simplified": "Chángchéng",
+    "pinyin": "impregnable bulwark, the Great Wall, Great Wall",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "厂",
+    "simplified": "chǎng",
+    "pinyin": "factory, mill, plant, works, yard, depot",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "长期",
+    "simplified": "chángqī",
+    "pinyin": "long term, long time, long range (of a forecast)",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "场合",
+    "simplified": "chǎnghé",
+    "pinyin": "conjuncture, situation, event, occasion, social occasion, affair",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "场所",
+    "simplified": "chǎngsuǒ",
+    "pinyin": "site, digging, terrain, locality, point, arena, scene, room, locus, location, locale, stead, scene of action, lieu, amenity, meridian, where, spot, space, land site, place, seat",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "朝",
+    "simplified": "cháo",
+    "pinyin": "abbr. for 朝鮮|朝鲜[Chao2 xian3] Korea, imperial or royal court, government, dynasty, reign of a sovereign or emperor, court or assembly held by a sovereign or emperor, to make a pilgrimage to, facing, towards, morning",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "吵",
+    "simplified": "chǎo",
+    "pinyin": "shout for something",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "衬衫",
+    "simplified": "chènshān",
+    "pinyin": "shirt, blouse, CL:件[jian4]",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "超级",
+    "simplified": "chāojí",
+    "pinyin": "super",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "吵架",
+    "simplified": "chǎo jià",
+    "pinyin": "quarrel, have a row/spat",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "衬衣",
+    "simplified": "chènyī",
+    "pinyin": "shirt, CL:件[jian4]",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "称为",
+    "simplified": "chēngwéi",
+    "pinyin": "call as",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "成功",
+    "simplified": "chénggōng",
+    "pinyin": "succeed",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "成果",
+    "simplified": "chéngguǒ",
+    "pinyin": "product, achievement, outcome, gain, production, fruit, positive result, progeny, job",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "成就",
+    "simplified": "chéngjiù",
+    "pinyin": "achievement, accomplishment, success",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "成熟",
+    "simplified": "chéngshú",
+    "pinyin": "ripe, mature",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "成立",
+    "simplified": "chénglì",
+    "pinyin": "found, establish, be tenable, hold water",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "成员",
+    "simplified": "chéngyuán",
+    "pinyin": "member",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "成长",
+    "simplified": "chéngzhǎng",
+    "pinyin": "grow up, mature",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "城",
+    "simplified": "chéng",
+    "pinyin": "wall, city wall, city, kasbah, town, township, burgh, castle, burg",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "城市",
+    "simplified": "chéngshì",
+    "pinyin": "city, town, CL:座[zuo4]",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "持续",
+    "simplified": "chíxù",
+    "pinyin": "perennate, hang on, carry_over, persist, steady, keep, carry over, keep on, proceed, stretch, carry_on, retain, sustain, persevere, continuity, endure, stay, continue, hang in, hold, maintain, run, span, go on, run for, last, go along, exist, hold on",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "程度",
+    "simplified": "chéngdù",
+    "pinyin": "latitude, rate, degree, point, measure, way, grade, gree, pitch, cut, length, plane, stage, level, extent, scale, notch",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "初",
+    "simplified": "chū",
+    "pinyin": "at the beginning of, in the early part of",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "充满",
+    "simplified": "chōngmǎn",
+    "pinyin": "swarm, be brimming, inhabit, be brimming with, teem, crawl, fill, lard, pullulate with, brim, be permeated with, bathe, be filled with, permeated with, abound in, implement, exuberate, fill up, flow, abound, burst, perfuse, foam, bristle, crackle, inform, pervade, be imbued with, simmer, glut, teem in, permeate, congest, be full of, reek, charge, suffuse, pullulate, overfill, swell",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "初步",
+    "simplified": "chūbù",
+    "pinyin": "initially, preliminarily, tentatively",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "初级",
+    "simplified": "chūjí",
+    "pinyin": "junior, primary",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "重",
+    "simplified": "zhòng",
+    "pinyin": "heavy, weighty, important, considerable in amount/value",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "初中",
+    "simplified": "chūzhōng",
+    "pinyin": "junior high school, abbr. for 初級中學|初级中学[chu1 ji2 zhong1 xue2]",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "除了",
+    "simplified": "chúle",
+    "pinyin": "except, besides",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "处理",
+    "simplified": "chǔlǐ",
+    "pinyin": "handle, deal with, dispose of, process",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "传",
+    "simplified": "chuán",
+    "pinyin": "pass (on), hand down, impart, teach, spread, transmit",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "传播",
+    "simplified": "chuánbō",
+    "pinyin": "disseminate, propagate, spread",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "传说",
+    "simplified": "chuánshuō",
+    "pinyin": "legend",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "创新",
+    "simplified": "chuàngxīn",
+    "pinyin": "bring forth new ideas, blaze new trails",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "创造",
+    "simplified": "chuàngzào",
+    "pinyin": "create, produce, bring about",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "传来",
+    "simplified": "chuánlái",
+    "pinyin": "spread, arise, salute, deliver something to here",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "创作",
+    "simplified": "chuàngzuò",
+    "pinyin": "creative work, creation",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "创业",
+    "simplified": "chuàngyè",
+    "pinyin": "start undertaking, do pioneering work",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "从前",
+    "simplified": "cóngqián",
+    "pinyin": "previously, formerly, once upon a time",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "从来",
+    "simplified": "cónglái",
+    "pinyin": "all along, at all times, always",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "从事",
+    "simplified": "cóngshì",
+    "pinyin": "engross, have, join, treat, plow, handle, follow, embark, undertake, attend_to, attack, occupy, absorb, go_into, work, engage, prosecute, go_about, go in for, pursue, be, meddle, embark_on, perform, enter, cover, deal, address, be engaged in, deal with, place, wage",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "存",
+    "simplified": "cún",
+    "pinyin": "harbour, keep, deposit (money), gather, harbor, cherish, accumulate, existence, live, leave with, retain, reserve, save, consist, accumulation, preserve, survival, store, survive, check (luggage), collect, deposit, place, bank, check, exist, be in stock, remain on balance",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "村",
+    "simplified": "cūn",
+    "pinyin": "village, variant of 村[cun1]",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "存在",
+    "simplified": "cúnzài",
+    "pinyin": "exist, be",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "错误",
+    "simplified": "cuòwù",
+    "pinyin": "error, blunder",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "达到",
+    "simplified": "dá dào",
+    "pinyin": "extend to, find, fulfil, compass, encompass, extend, gain, answer, achievement, succeed, fulfill, live_up_to, attainment, strain, bring_up, achieve, get to, touch, strive, make, accomplish, progress to, come, hit, come_out, obtain, reach, attain, clock_up, suffice, do, get, arrive_at",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "打破",
+    "simplified": "dǎpo",
+    "pinyin": "shiver, better, explode, smash, crush, fall apart, discomfit, part, shatter, force, murder, wear, break, bust, drub, wear out",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "大概",
+    "simplified": "dàgài",
+    "pinyin": "chiefly, if not, perchance, approximately, believably, maybe, presumably, plausibly, almost, conceivably, most likely, assumedly, ablings, likely, perhaps, probably, supposedly, ablins, credibly, assumably, belike",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "打听",
+    "simplified": "dǎting",
+    "pinyin": "to ask about, to make some inquiries, to ask around",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "大使馆",
+    "simplified": "dàshǐguǎn",
+    "pinyin": "embassy, CL:座[zuo4],個|个[ge4]",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "大约",
+    "simplified": "dàyuē",
+    "pinyin": "about, around, probably, likely",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "代",
+    "simplified": "dài",
+    "pinyin": "period, generation",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "代表",
+    "simplified": "dàibiǎo",
+    "pinyin": "representative, delegate",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "大夫",
+    "simplified": "dàfū",
+    "pinyin": "a senior official in feudal China, physician, senior official, doctor",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "代表团",
+    "simplified": "dàibiǎotuán",
+    "pinyin": "contingent, delegacy, mission, deputation, delegation",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "带动",
+    "simplified": "dài dòng",
+    "pinyin": "drive, spur on, bring along",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "单元",
+    "simplified": "dānyuán",
+    "pinyin": "module, unit, unit of teaching materials, residential unit",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "当初",
+    "simplified": "dāngchū",
+    "pinyin": "at that time, originally",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "带领",
+    "simplified": "dàilǐng",
+    "pinyin": "lead (army/party/etc.), guide",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "当然",
+    "simplified": "dāngrán",
+    "pinyin": "certainly, of course",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "当地",
+    "simplified": "dāngdì",
+    "pinyin": "locality, the place (named/mentioned/etc.)",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "当中",
+    "simplified": "dāngzhōng",
+    "pinyin": "in the middle/center",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "刀",
+    "simplified": "dāo",
+    "pinyin": "knife, sword, blade, sth. shaped like a knife",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "导演",
+    "simplified": "dǎoyǎn",
+    "pinyin": "director",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "到达",
+    "simplified": "dàodá",
+    "pinyin": "find, arrive at, go_into, get_in, go, come, show, hit, strike, arrive, fetch_up, range, show_up, gain, come_to, win, reach, come to, attain, lead, go_down, come_in, arrival, get_at, get to, get, touch, make, come_through, arrive_at, land",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "得分",
+    "simplified": "dé fēn",
+    "pinyin": "score",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "到底",
+    "simplified": "dàodǐ",
+    "pinyin": "to the end, at last, after all",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "等待",
+    "simplified": "děngdài",
+    "pinyin": "wait for, await",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "底下",
+    "simplified": "dǐxia",
+    "pinyin": "under, below, beneath",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "地区",
+    "simplified": "dìqū",
+    "pinyin": "section, country, area, latitude, zone, terrain, parts, locality, sector, province, prefecture, region, district, faubourg",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "电视台",
+    "simplified": "diànshìtái",
+    "pinyin": "television station, station, spreader, broadcaster, TV station",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "电台",
+    "simplified": "diàntái",
+    "pinyin": "transceiver, transmitter-receiver, broadcasting station",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "电子邮件",
+    "simplified": "diànzǐyóujiàn",
+    "pinyin": "email, CL:封[feng1],份[fen4]",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "调",
+    "simplified": "diào",
+    "pinyin": "to transfer, to move (troops or cadres), to investigate, to enquire into, accent, view, argument, key (in music), mode (music), tune, tone, melody, to harmonize, to reconcile, to blend, to suit well, to adjust, to regulate, to season (food), to provoke, to incite",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "电视剧",
+    "simplified": "diànshìjù",
+    "pinyin": "TV play, soap opera, CL:部[bu4]",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "调查",
+    "simplified": "diàochá",
+    "pinyin": "investigate, look into, survey",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "订",
+    "simplified": "dìng",
+    "pinyin": "subscribe to, agree on, revise, draw up, staple together, book (seats), conclude, order, book, subscribe, make corrections",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "定期",
+    "simplified": "dìngqī",
+    "pinyin": "fixed (of time), periodically, regularly",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "东部",
+    "simplified": "dōngbù",
+    "pinyin": "orient, East, eastward, east",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "动人",
+    "simplified": "dòngrén",
+    "pinyin": "moving, fetch, emotional, attractive, touching",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "读者",
+    "simplified": "dúzhě",
+    "pinyin": "audience, subscriber, reader",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "动力",
+    "simplified": "dònglì",
+    "pinyin": "driving force, impetus, motivity, (motive) power, wheel, (motive) power/force, agency, vector, dynamics, force, motive_power, momentum, power",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "短裤",
+    "simplified": "duǎnkù",
+    "pinyin": "short pants, shorts",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "短处",
+    "simplified": "duǎnchu",
+    "pinyin": "shortcoming, defect, fault, one's weak points",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "断",
+    "simplified": "duàn",
+    "pinyin": "give up, cut off, break off, stop, abstain from, judge, snap, break, decide",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "短期",
+    "simplified": "duǎnqī",
+    "pinyin": "short term, short-term",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "队员",
+    "simplified": "duìyuán",
+    "pinyin": "team member",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "对待",
+    "simplified": "duìdài",
+    "pinyin": "treat, approach, handle",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "对方",
+    "simplified": "duìfāng",
+    "pinyin": "other party, the other party, fellow, party, other side, adversary, other side/party",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "对象",
+    "simplified": "duìxiàng",
+    "pinyin": "boy/girl friend, mate, fair game, boy friend, prey, boy, object, quarry, target, girl friend, catch, match",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "对手",
+    "simplified": "duìshǒu",
+    "pinyin": "mate, competitor, opposite, antagonist, comparative, contender, adversary, opponent, opposition, counterpart, equal, counterworker, rival, match",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "发表",
+    "simplified": "fābiǎo",
+    "pinyin": "voice, enounce, enunciate, publish, free, sound, announce, pronounce, deliver, circulation, put_out, release, issue, vend, circularize, give, give_out, denote, present, circulate, publicize, blazon, promulgate, mouth",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "顿",
+    "simplified": "dùn",
+    "pinyin": "m.[event]",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "发出",
+    "simplified": "fā chū",
+    "pinyin": "voice, send_out, give_forth, send out, exhale, sound, fetch, pass off, shoot, effuse, issue, emanate, raise, give, shed, send/give out, utter, go, escape, proceed, send, give forth, give_off, give off, fall, eradiate, emit, flash, scintillate, issue_forth, give_out, give out, clank, reek, place, breathe",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "发达",
+    "simplified": "fādá",
+    "pinyin": "developed, flourishing",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "发动",
+    "simplified": "fādòng",
+    "pinyin": "start, launch, mobilize, arouse",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "发明",
+    "simplified": "fāmíng",
+    "pinyin": "invention",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "发生",
+    "simplified": "fāshēng",
+    "pinyin": "happen, occur, take place",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "发送",
+    "simplified": "fāsong",
+    "pinyin": "to transmit, to dispatch, to issue (an official document or credential)",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "发言",
+    "simplified": "fāyán",
+    "pinyin": "speak, make statement/speech",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "发展",
+    "simplified": "fāzhǎn",
+    "pinyin": "develop, expand, grow",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "反复",
+    "simplified": "fǎnfù",
+    "pinyin": "repeatedly, backward_and_forward",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "反应",
+    "simplified": "fǎnyìng",
+    "pinyin": "reaction, response, repercussion",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "反正",
+    "simplified": "fǎnzheng",
+    "pinyin": "anyway, anyhow, in any case",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "范围",
+    "simplified": "fànwéi",
+    "pinyin": "demesne, latitude, shot, compass, extensity, panorama, parameter, boundary, arena, stretch, territory, radius, spectrum, scope, extension, sphere, orbit, circumscription, limits, purview, grasp, extent, region, space, limit, hemisphere, horizon, envelope, bounds, realm, terrain, tether, sphere of influence, range, circuit, domain, precinct, reach, area, length, spread, bailiwick, ambit, con",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "反对",
+    "simplified": "fǎnduì",
+    "pinyin": "to fight against, to oppose, to be opposed to, opposition",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "防",
+    "simplified": "fáng",
+    "pinyin": "guard against, guard, prevent, prepare against, defence, resistance, guard/prepare against, resist, defend, provide against",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "防止",
+    "simplified": "fángzhǐ",
+    "pinyin": "estop, guard against, preclude, prevention, inhibit, avoidance, help, cumber, prevent, forbid, prohibit, obviate, restrain, deter, avoid, head_off, debar, guard, help oneself, ward_off, constrain, ward, encumber, avert, ward off, disenable, forfend, shield, countercheck, forestall, keep_from, foreclose",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "方式",
+    "simplified": "fāngshì",
+    "pinyin": "path, plan, pattern, tenor, system, method, manner, style, way, guise, fashion, wise, means, shape, how, embodiment, agency, gate, mode, sort",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "房东",
+    "simplified": "fángdōng",
+    "pinyin": "landlord",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "访问",
+    "simplified": "fǎngwèn",
+    "pinyin": "visit, call on, interview",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "放到",
+    "simplified": "fàng dào",
+    "pinyin": "Put in",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "房屋",
+    "simplified": "fángwū",
+    "pinyin": "casa, premises, buildings, digging, houses, housing, tenement, house",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "费",
+    "simplified": "fèi",
+    "pinyin": "cost, spend, expend",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "飞行",
+    "simplified": "fēixíng",
+    "pinyin": "fly",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "房租",
+    "simplified": "fángzū",
+    "pinyin": "rent for a room or house",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "费用",
+    "simplified": "fèiyong",
+    "pinyin": "tax, cost, expense, expenditure, due, rate, exes, outlay, outgo, fee, terms, toll, price, disbursement, fare, expenses, disbursal, retainer, pay, damage, charge, monetary value, consideration, outgoing",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "分别",
+    "simplified": "fēnbié",
+    "pinyin": "separately, respectively",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "分组",
+    "simplified": "fēn zǔ",
+    "pinyin": "divide into groups",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "分配",
+    "simplified": "fēnpèi",
+    "pinyin": "distribute, allot, assign",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "丰富",
+    "simplified": "fēngfù",
+    "pinyin": "rich, abundant, plentiful",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "风险",
+    "simplified": "fēngxiǎn",
+    "pinyin": "peril, danger, risk, hazard",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "否定",
+    "simplified": "fǒudìng",
+    "pinyin": "negate, deny",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "服装",
+    "simplified": "fúzhuāng",
+    "pinyin": "turnout, wearing_apparel, clothing, investiture, rigging, costuming, toggery, habilimentation, habiliment, drapery, garb, attire, toilette, frock, costume, dress, investment, garmenture, rig, garment, setout, implement, garniture, getup, outfit",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "父母",
+    "simplified": "fùmǔ",
+    "pinyin": "parental, parents, father and mother, folks",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "否认",
+    "simplified": "fǒurèn",
+    "pinyin": "deny, disavow, repudiation, naysay, denial, gainsay, reject, veto, negate, disclaim, disown, challenge, dispute, renounce, disaffirm, negative, contradict, contravene, repudiate",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "福",
+    "simplified": "fú",
+    "pinyin": "felicity, happiness, blessing, good fortune",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "父亲",
+    "simplified": "fùqin",
+    "pinyin": "parent, father, pere, Pa, begetter, governor, abba, male parent, pater, guv",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "负责",
+    "simplified": "fùzé",
+    "pinyin": "preside, be responsible for, see, entail, sponsor, be in charge of, blame, answer, undertake, liable, respond",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "复印",
+    "simplified": "fùyìn",
+    "pinyin": "to photocopy, to duplicate a document",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "付",
+    "simplified": "fù",
+    "pinyin": "hand/turn over to, commit to, pay",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "复杂",
+    "simplified": "fùzá",
+    "pinyin": "complicated, complex",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "改造",
+    "simplified": "gǎizào",
+    "pinyin": "recast, rebuild, re-form, reconstruct, remake, transformation, remould, transmake, reform, transform, remodel, reorganize, retread, remold, remodify, reshape, remoulding, redo, alter, recreate, transmute, make over, refashion, revamp",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "富",
+    "simplified": "fù",
+    "pinyin": "be rich in, be full of",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "改进",
+    "simplified": "gǎijìn",
+    "pinyin": "improve",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "概念",
+    "simplified": "gàiniàn",
+    "pinyin": "estimate, conception, view, intention, image, estimation, idea, notion, concept, construct, paradox, approximation, impression",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "赶",
+    "simplified": "gǎn",
+    "pinyin": "run after, pursue",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "赶到",
+    "simplified": "gǎndào",
+    "pinyin": "leave for, hurry to",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "赶快",
+    "simplified": "gǎnkuài",
+    "pinyin": "quickly, hastily",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "赶紧",
+    "simplified": "gǎnjǐn",
+    "pinyin": "hasten, double-quick, losing no time, hurriedly",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "敢",
+    "simplified": "gǎn",
+    "pinyin": "dare, make bold, have courage to, be sure, have confidence to, venture, have the confidence to, be certain",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "感冒",
+    "simplified": "gǎnmào",
+    "pinyin": "catch cold",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "感受",
+    "simplified": "gǎnshòu",
+    "pinyin": "perception, sentiment, mood",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "干吗",
+    "simplified": "gànmá",
+    "pinyin": "see 幹嘛|干嘛[gan4 ma2]",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "感情",
+    "simplified": "gǎnqíng",
+    "pinyin": "warmheartedness, reticence, sensation, affection, susceptibility, feeling, feelings, heart, affective, withers, expression, tenderness, emotion, sentiment, fondness, soul, affectionateness, soulfulness, passion",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "高速",
+    "simplified": "gāosù",
+    "pinyin": "great speed, velocity, high speed, high",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "高速公路",
+    "simplified": "gāosùgōnglù",
+    "pinyin": "expressway, highway, freeway",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "告别",
+    "simplified": "gàobié",
+    "pinyin": "valedictory, take_leave, part from, leave, parting, say good-bye to, bid farewell to",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "歌声",
+    "simplified": "gēshēng",
+    "pinyin": "voice, song, singing, sound of singing, singing voice",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "歌迷",
+    "simplified": "gēmí",
+    "pinyin": "lover of song, fan of a singer",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "歌手",
+    "simplified": "gēshǒu",
+    "pinyin": "warbler, voice, vocalist, singer, bulbul, performer, lark, songster",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "各",
+    "simplified": "gè",
+    "pinyin": "det.: each, every",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "个性",
+    "simplified": "gèxìng",
+    "pinyin": "kidney, specific property, personalism, fibre, individuation, personhood, particularity, fiber, character, individual character, self-identity, mentality, idiosyncrasy, spirit, individuality, individualism, selfhood, personality",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "个人",
+    "simplified": "gèrén",
+    "pinyin": "individual person, man_jack, personal, individual (person), man jack, individual, individuality, identity",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "各位",
+    "simplified": "gèwèi",
+    "pinyin": "everybody, all (guests, colleagues etc), all of you",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "各地",
+    "simplified": "gèdì",
+    "pinyin": "in all parts of (a country), various regions",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "各种",
+    "simplified": "gèzhǒng",
+    "pinyin": "every kind of, all kinds of, various kinds",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "根本",
+    "simplified": "gēnběn",
+    "pinyin": "at all, utterly",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "各自",
+    "simplified": "gèzì",
+    "pinyin": "each, respective, severalty, oneself",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "更加",
+    "simplified": "gèngjiā",
+    "pinyin": "(even) more",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "工程师",
+    "simplified": "gōngchéngshī",
+    "pinyin": "technologist, engineer, applied scientist",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "工夫",
+    "simplified": "gōngfu",
+    "pinyin": "workmanship, skill, art",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "工具",
+    "simplified": "gōngjù",
+    "pinyin": "stock-in-trade, instrumentality, instrument, ministry, hand_tool, escalator, creature, utensil, material, gear, pawn, lobster-joint, cat's-paw, kit, apparatus, tool, appurtenances, paraphernalia, means, wood, tackle, implement, medium, lever, outfit",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "工业",
+    "simplified": "gōngyè",
+    "pinyin": "industrial, industry",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "工厂",
+    "simplified": "gōngchǎng",
+    "pinyin": "layout, mill, factory, remuneration, workshop, industrial plant, plant, hacienda, manufactory, works, shop",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "工资",
+    "simplified": "gōngzī",
+    "pinyin": "earning, hire, remuneration, screw, laborage, pay, paycheck, wages, earnings, pay_packet, salary, wage_scale, differential, wage",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "公布",
+    "simplified": "gōngbù",
+    "pinyin": "promulgate, announce, publish",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "公共",
+    "simplified": "gōnggòng",
+    "pinyin": "common, commonly, publicly, public, communal",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "公开",
+    "simplified": "gōngkāi",
+    "pinyin": "bare, air, unclose, publish, come_out, make known to the public, publicize, divulgate, overt, publicise, public, disclosure, make known to public, unfurl, make public",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "公务员",
+    "simplified": "gōngwùyuán",
+    "pinyin": "jobholder, servant, public_servant, official, government official worker, functionary, government employee, public servant, officeholder, officialdom, officer, orderly, civil servant, government officials",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "功课",
+    "simplified": "gōngkè",
+    "pinyin": "task, schoolwork, homework, preparation, prep, subject, lesson",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "公民",
+    "simplified": "gōngmín",
+    "pinyin": "freeman, citizen, denizen, national, civic, freewoman, commonwealth, burgher, civics",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "功能",
+    "simplified": "gōngnéng",
+    "pinyin": "functional, niche, function, competence, capacity, anatomy",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "共同",
+    "simplified": "gòngtóng",
+    "pinyin": "common, joint",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "功夫",
+    "simplified": "gōngfu",
+    "pinyin": "workmanship, skill, art",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "姑娘",
+    "simplified": "gūniang",
+    "pinyin": "quiff, cummer, gill, calico, girlie, missy, moll, damsel, fille, girl, jill, miss, judy, jeune fille, sheila, jane, lass, colleen, toots, daughter, young girl, lassie",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "共有",
+    "simplified": "gòngyǒu",
+    "pinyin": "to have altogether, in all",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "古",
+    "simplified": "gǔ",
+    "pinyin": "ancient, age-old;not following current customs/practice",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "古代",
+    "simplified": "gǔdài",
+    "pinyin": "ancient times, olden times",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "故乡",
+    "simplified": "gùxiāng",
+    "pinyin": "country, home, patria, place of birth, native place, hometown, homeland, motherland, birthplace",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "关系",
+    "simplified": "guānxi",
+    "pinyin": "relation, bearing, impact, membership credentials, backdoor connections",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "关注",
+    "simplified": "guānzhù",
+    "pinyin": "follow with interest, pay close attention to",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "观察",
+    "simplified": "guānchá",
+    "pinyin": "observe, survey, inspect",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "挂",
+    "simplified": "guà",
+    "pinyin": "hang, put up, hitch, ring up",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "观看",
+    "simplified": "guānkàn",
+    "pinyin": "eye, view, watch, spectate, eyeball",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "观念",
+    "simplified": "guānniàn",
+    "pinyin": "conception, intension, theory, philosophy, idolum, connotation, idea, sense, presentation, notion, concept, construct, intellection, presentment, thought, notional, conceit",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "管理",
+    "simplified": "guǎnlǐ",
+    "pinyin": "manage, supervise, take care of",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "观众",
+    "simplified": "guānzhòng",
+    "pinyin": "onlooker, TV audience, attendance, audience, spectator, viewers, followers, crowd, gallery, viewer, following, house, viewing audience",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "光明",
+    "simplified": "guāngmíng",
+    "pinyin": "bright, promising, openhearted, guileless",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "广播",
+    "simplified": "guǎngbō",
+    "pinyin": "broadcast, air",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "管",
+    "simplified": "guǎn",
+    "pinyin": "run, manage, administer, have charge of, subject to discipline, bother about",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "光",
+    "simplified": "guāng",
+    "pinyin": "light, ray, brightness, honor, glory, luster",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "规定",
+    "simplified": "guīdìng",
+    "pinyin": "rules, disciplines, regulations",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "广大",
+    "simplified": "guǎngdà",
+    "pinyin": "large, wide, vast, ample, large-scale, numerous, wide-spread",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "国内",
+    "simplified": "guónèi",
+    "pinyin": "interior (of country), interior, home, intestine, internal, domestic",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "规范",
+    "simplified": "guīfàn",
+    "pinyin": "constraint, norm",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "国庆",
+    "simplified": "Guóqìng",
+    "pinyin": "National Day",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "果然",
+    "simplified": "guǒrán",
+    "pinyin": "really, as expected, sure enough",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "果汁",
+    "simplified": "guǒzhī",
+    "pinyin": "fruit juice",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "过程",
+    "simplified": "guòchéng",
+    "pinyin": "unconscious process, mechanism, process, act, round, course",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "哈哈",
+    "simplified": "hāha",
+    "pinyin": "sound of laughter, haha",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "过去",
+    "simplified": "guò qu",
+    "pinyin": "go over, pass by",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "海关",
+    "simplified": "hǎiguān",
+    "pinyin": "chophouse, customhouse, customshouse, custom, haikwan, customs, douane",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "害怕",
+    "simplified": "hàipà",
+    "pinyin": "dread, be afraid/scared, fearful, frighten, fear, frightened, shrink_from, be afraid, funk, scared, be scared, tremble",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "好好",
+    "simplified": "hǎohǎo",
+    "pinyin": "well, carefully, nicely, properly",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "行",
+    "simplified": "xíng",
+    "pinyin": "go, travel, prevail, circulate, be current",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "好奇",
+    "simplified": "hàoqí",
+    "pinyin": "curious, full of curiosity",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "合",
+    "simplified": "hé",
+    "pinyin": "be equal to, amount to",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "合法",
+    "simplified": "héfǎ",
+    "pinyin": "legal, well-formed, rightful, lawful, legitimate",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "合格",
+    "simplified": "hégé",
+    "pinyin": "measure_up, reach standard, measure up, qualify, nail, make it, pass, qualified",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "合理",
+    "simplified": "hélǐ",
+    "pinyin": "plausible, rational, reasonable, legitimate, equitable, sensible",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "和平",
+    "simplified": "hépíng",
+    "pinyin": "mild, peaceful",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "红茶",
+    "simplified": "hóngchá",
+    "pinyin": "tea, bohea, black_tea, black tea",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "红酒",
+    "simplified": "hóngjiǔ",
+    "pinyin": "Red wine",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "后果",
+    "simplified": "hòuguǒ",
+    "pinyin": "aftereffect, aftermath, consequent, wake, backwash, sequel, consequence, subsequence",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "后面",
+    "simplified": "hòumian",
+    "pinyin": "rear, back, in the rear, latter, behind, rearward, at the back",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "后年",
+    "simplified": "hòunián",
+    "pinyin": "the year after next",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "互联网",
+    "simplified": "hùliánwǎng",
+    "pinyin": "Internet",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "合作",
+    "simplified": "hézuò",
+    "pinyin": "cooperate, collaborate, work together",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "划船",
+    "simplified": "huá chuán",
+    "pinyin": "paddle/row boat",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "互相",
+    "simplified": "hùxiāng",
+    "pinyin": "mutual, each other, mutually, one another, reciprocally",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "华人",
+    "simplified": "huárén",
+    "pinyin": "Chinese, Ch. people",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "化",
+    "simplified": "huà",
+    "pinyin": "melt, dissolve, thaw, digest, remove, burn up, incinerate, disguise",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "话剧",
+    "simplified": "huàjù",
+    "pinyin": "stage play, modern drama, CL:臺|台[tai2],部[bu4]",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "欢乐",
+    "simplified": "huānlè",
+    "pinyin": "happy, joyous, gay",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "环",
+    "simplified": "huán",
+    "pinyin": "ring, link",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "话题",
+    "simplified": "huàtí",
+    "pinyin": "talking_point, theme, gambit, subject of a talk, ground, talk, talking point, topic, chapter, topic of conversation",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "环保",
+    "simplified": "huánbǎo",
+    "pinyin": "environmental protection",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "环境",
+    "simplified": "huánjìng",
+    "pinyin": "circumambiency, environmental, circumstances, environment, entourage, surround, atmosphere, setting, surroundings, ambiance, condition, context, circumstance, surrounding, frame, milieu, ambient, consideration, environs, medium, ambience",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "会议",
+    "simplified": "huìyì",
+    "pinyin": "synod, moot, conference, board, convocation, soviet, congress, talks, indaba, negotiation, junta, group discussion, convention, meeting place, session, council, rendezvous, colloquy, coming together, powwow, seance, meeting, forum, consultation, roll-up, get-together, assembly",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "会员",
+    "simplified": "huìyuán",
+    "pinyin": "member",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "火",
+    "simplified": "huǒ",
+    "pinyin": "fire;internal heat, anger, temper;firearms, ammunition",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "活",
+    "simplified": "huó",
+    "pinyin": "alive, live, vivid, save (sb.'s life), activate, save, be",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "机器",
+    "simplified": "jīqì",
+    "pinyin": "enginery, life, machinery, machine, plant, apparatus, engine, gizmo",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "基本",
+    "simplified": "jīběn",
+    "pinyin": "fundamental, essential, main",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "积极",
+    "simplified": "jījí",
+    "pinyin": "positive, active, energetic, vigorous",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "基本上",
+    "simplified": "jīběnshang",
+    "pinyin": "basically, on the whole",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "及时",
+    "simplified": "jíshí",
+    "pinyin": "timely, in time, promptly",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "基础",
+    "simplified": "jīchǔ",
+    "pinyin": "base, foundation",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "…极了",
+    "simplified": "…jíle",
+    "pinyin": "…Extremely",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "集中",
+    "simplified": "jízhōng",
+    "pinyin": "concentrate, centralize, focus, put together",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "集体",
+    "simplified": "jítǐ",
+    "pinyin": "collective",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "计算",
+    "simplified": "jìsuàn",
+    "pinyin": "count, calculate, compute",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "记录",
+    "simplified": "jìlù",
+    "pinyin": "record, note",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "记者",
+    "simplified": "jìzhě",
+    "pinyin": "journalist, writer, correspondent, newspaperwoman, newspaperman, gazetteer, newswriter, reporter, pressman, newshound, newsman, newsperson",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "纪念",
+    "simplified": "jìniàn",
+    "pinyin": "commemorate, mark",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "技术",
+    "simplified": "jìshù",
+    "pinyin": "mechanics, know-how, prowess, science, Minerva, superior skill, art, competence, technology, craft, craftsmanship, skill, education, technique, artistry, engineering, technological, equipment, technical",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "继续",
+    "simplified": "jìxù",
+    "pinyin": "go, resume, keep_on, abide, come on, persist in, extend, run_on, run on, carry_on, stretch, sustain, pursue, keep going, continuance, get_along, get_on, remain, continue, keep_up, go ahead, keep up, come up, continuation, hold, carry, run, go_on, maintain, go on, bide, plow ahead, hold_on, piece, restart",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "加工",
+    "simplified": "jiā gōng",
+    "pinyin": "process",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "加强",
+    "simplified": "jiāqiáng",
+    "pinyin": "strengthen, augment, reinforce",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "家具",
+    "simplified": "jiāju",
+    "pinyin": "household goods, movable, furnishings, furniture, home furnishings, household stuff, implement, household furnishings, fitment",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "加快",
+    "simplified": "jiākuài",
+    "pinyin": "speed up, accelerate",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "家乡",
+    "simplified": "jiāxiāng",
+    "pinyin": "fatherland, country, home, country of origin, native place, mother country, hometown, native land, motherland, homeland",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "纪录",
+    "simplified": "jìlù",
+    "pinyin": "minutes, notes, record, record",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "家属",
+    "simplified": "jiāshǔ",
+    "pinyin": "blood relative, kinswoman, kinsman, household, kinfolk, kin, dependent, kinsfolk, family members, family dependents, cognate, folk, sib, people, dependents, blood relation, family members/dependents",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "价格",
+    "simplified": "jiàgé",
+    "pinyin": "price",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "价钱",
+    "simplified": "jiàqian",
+    "pinyin": "cost, monetary value, rate, price",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "价值",
+    "simplified": "jiàzhí",
+    "pinyin": "value, worth",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "架",
+    "simplified": "jià",
+    "pinyin": "m.[general]",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "坚持",
+    "simplified": "jiānchí",
+    "pinyin": "persist in, insist on",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "坚强",
+    "simplified": "jiānqiáng",
+    "pinyin": "strong, firm, staunch",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "简单",
+    "simplified": "jiǎndān",
+    "pinyin": "terse, casual, commonplace, simple, oversimplified, ordinary, uncomplicated",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "简直",
+    "simplified": "jiǎnzhí",
+    "pinyin": "simply, really",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "坚决",
+    "simplified": "jiānjué",
+    "pinyin": "firm, determined",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "建",
+    "simplified": "jiàn",
+    "pinyin": "establishment, erection, build, proposal, propose, set up, establish, found, advocate, erect, construction, construct",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "建成",
+    "simplified": "jiànchéng",
+    "pinyin": "to establish, to build",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "建立",
+    "simplified": "jiànlì",
+    "pinyin": "establish, set up, found",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "建设",
+    "simplified": "jiànshè",
+    "pinyin": "construction",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "将近",
+    "simplified": "jiāngjìn",
+    "pinyin": "almost",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "将来",
+    "simplified": "jiānglái",
+    "pinyin": "in the future, future, the future, CL:個|个[ge4]",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "交费",
+    "simplified": "jiāofèi",
+    "pinyin": "Pay a fee",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "建议",
+    "simplified": "jiànyì",
+    "pinyin": "propose, suggest, recommend",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "交警",
+    "simplified": "jiāojǐng",
+    "pinyin": "traffic police, abbr. for 交通警察",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "交流",
+    "simplified": "jiāoliú",
+    "pinyin": "exchange, interflow, interchange",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "交往",
+    "simplified": "jiāowǎng",
+    "pinyin": "associate, contact",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "交易",
+    "simplified": "jiāoyì",
+    "pinyin": "deal, trade, transaction",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "教材",
+    "simplified": "jiàocái",
+    "pinyin": "textbook, teaching material",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "教练",
+    "simplified": "jiàoliàn",
+    "pinyin": "training, drillmaster, wise man, tutor, drilling, handler, coacher, coach, instructor, private instructor, trainer, mentor",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "较",
+    "simplified": "jiào",
+    "pinyin": "rather, quite, relatively, more",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "接待",
+    "simplified": "jiēdài",
+    "pinyin": "receive (guests), serve (customers)",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "结实",
+    "simplified": "jiēshi",
+    "pinyin": "to bear fruit, rugged, sturdy, strong, durable, buff (physique)",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "接近",
+    "simplified": "jiējìn",
+    "pinyin": "approach, near, be close to",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "结合",
+    "simplified": "jiéhé",
+    "pinyin": "combine, unite, integrate, link, be joined in wedlock",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "结婚",
+    "simplified": "jié hūn",
+    "pinyin": "middle-aisle, intermarry, mate, conjoin, get married, couple, married, espouse, pair, marry, unite, get_married, get hitched with, spouse, splice, hook up with, wed",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "叫",
+    "simplified": "jiào",
+    "pinyin": "to be called",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "解决",
+    "simplified": "jiějué",
+    "pinyin": "solve, resolve, settle, dispose of, finish off",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "结束",
+    "simplified": "jiéshù",
+    "pinyin": "end, close, conclude",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "解开",
+    "simplified": "jiě kāi",
+    "pinyin": "unknot, loose, uncouple, unbuckle, unyoke, reel off, disengage, unreel, unloosen, disentwine, detach, untie, unwreathe, unlock, ravel, disentangle, unbraid, unsnarl, unhook, unfasten, unwind, unroll, tease apart, loosen, unhitch, unlace, undone, tease, unwire, uncord, unwrap, unleash, unthread, undo, disassemble, ravel out, disconnect, unlink, sleave, untangle, unpack, puzzle_out, unbend, u",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "节约",
+    "simplified": "jiéyuē",
+    "pinyin": "economize, save",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "金",
+    "simplified": "jīn",
+    "pinyin": "metals, gold, money, ancient metal percussion instruments",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "金牌",
+    "simplified": "jīnpái",
+    "pinyin": "gold medal",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "尽量",
+    "simplified": "jǐnliàng",
+    "pinyin": "to the best of one's ability",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "仅",
+    "simplified": "jǐn",
+    "pinyin": "scantily, simply, alone, merely, barely, only, but, just",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "仅仅",
+    "simplified": "jǐnjǐn",
+    "pinyin": "strictly, solely, exclusively, entirely, alone, merely, only, purely, simply, scantly, narrowly, barely, just",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "紧张",
+    "simplified": "jǐnzhāng",
+    "pinyin": "be nervous",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "紧",
+    "simplified": "jǐn",
+    "pinyin": "tighten, tight, hard up, strict, urgent, tense, taut, stringent",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "进步",
+    "simplified": "jìnbù",
+    "pinyin": "progress, advance, improve",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "进一步",
+    "simplified": "jìnyībù",
+    "pinyin": "go step further",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "进展",
+    "simplified": "jìnzhǎn",
+    "pinyin": "progress, advance",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "近期",
+    "simplified": "jìnqī",
+    "pinyin": "near in time, in the near future, very soon, recent",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "经济",
+    "simplified": "jīngjì",
+    "pinyin": "economy, financial condition, income",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "京剧",
+    "simplified": "jīngjù",
+    "pinyin": "Beijing opera, CL:場|场[chang3],出[chu1]",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "经验",
+    "simplified": "jīngyàn",
+    "pinyin": "experience",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "紧急",
+    "simplified": "jǐnjí",
+    "pinyin": "urgent, critical",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "经历",
+    "simplified": "jīnglì",
+    "pinyin": "go through, undergo, experience",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "精神",
+    "simplified": "jīngshen",
+    "pinyin": "god, guts, heart, pneuma, consciousness, vigor, life, energy, vim, courage, esprit, moral, get-up-and-go, ginger, vitality, Psyche, psyche, spunk, gumption, juice, sand, mind, mental, mens, mickey, mettle, nature, grit, oomph, genius, vigour, substance, psychic, backbone, nous, nerve, pazazz, essence, pep, spirit, inward, drive, push, soul, gist",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "精彩",
+    "simplified": "jīngcǎi",
+    "pinyin": "brilliant, splendid",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "经营",
+    "simplified": "jīngyíng",
+    "pinyin": "manage, run, engage in",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "景色",
+    "simplified": "jǐngsè",
+    "pinyin": "view, scenic, outlook, perspective, scene, scenery, prospect, landscape",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "警察",
+    "simplified": "jǐngchá",
+    "pinyin": "police officer, cop, trooper, bluecoat, finest, jack, peon, policeman, police force, constable, policemen, flattie, fuzz, constabulary, shamus, bull, bobby, robert, copper, tipstaff, rozzer, flatfoot, john, peeler, Vopo, law, runner, officer, gumshoe, pig, police, the police, beetle-crusher, flic",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "静",
+    "simplified": "jìng",
+    "pinyin": "still, quiet, calm",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "久",
+    "simplified": "jiǔ",
+    "pinyin": "for long time, of specified duration",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "就是",
+    "simplified": "jiùshì",
+    "pinyin": "conj.: even if, even",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "救",
+    "simplified": "jiù",
+    "pinyin": "relief, relieve, help, salve, salvage, rescue, save, succour",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "就业",
+    "simplified": "jiù yè",
+    "pinyin": "get or take up a job",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "举办",
+    "simplified": "jǔbàn",
+    "pinyin": "conduct, hold, run",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "旧",
+    "simplified": "jiù",
+    "pinyin": "old, aged, onetime, bygone, used, worn, past, former",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "具有",
+    "simplified": "jùyǒu",
+    "pinyin": "be provided with, have, have got, possess, hold, possession, carry, inhere, bear",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "剧场",
+    "simplified": "jùchǎng",
+    "pinyin": "theater",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "具体",
+    "simplified": "jùtǐ",
+    "pinyin": "concrete, specific, particular",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "决定",
+    "simplified": "juédìng",
+    "pinyin": "decide, resolve, make up one's mind, determine",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "据说",
+    "simplified": "jùshuō",
+    "pinyin": "they say, it is said, it is said that..., reputedly, allegedly",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "决赛",
+    "simplified": "juésài",
+    "pinyin": "runoff, fight-off, cup_final, playoff, cup final, match_game, finals, final, run-off",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "绝对",
+    "simplified": "juéduì",
+    "pinyin": "absolutely, definitely",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "咖啡",
+    "simplified": "kāfēi",
+    "pinyin": "arabica, coffee, cafe, Java, java, mocha, blackstrap",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "决心",
+    "simplified": "juéxīn",
+    "pinyin": "determination, resolution",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "开放",
+    "simplified": "kāifàng",
+    "pinyin": "lift a ban/etc., be turned on, be in operation",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "开发",
+    "simplified": "kāifa",
+    "pinyin": "develop, open up, exploit",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "开始",
+    "simplified": "kāishǐ",
+    "pinyin": "begin, start",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "开展",
+    "simplified": "kāizhǎn",
+    "pinyin": "develop, launch, unfold",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "开业",
+    "simplified": "kāi yè",
+    "pinyin": "to open a business, to open a practice, open (for business)",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "看起来",
+    "simplified": "kànqilai",
+    "pinyin": "it looks as if, on the face of it, it appears, it seems, ostensibly, seemingly, apparently, it look as if",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "看上去",
+    "simplified": "kànshangqu",
+    "pinyin": "it would appear, it seems (that)",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "考验",
+    "simplified": "kǎoyàn",
+    "pinyin": "test, trial",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "可靠",
+    "simplified": "kěkào",
+    "pinyin": "reliable, dependable",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "科技",
+    "simplified": "kējì",
+    "pinyin": "technology, tech, engineering science, applied science, science and technology, technological, engineering",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "客观",
+    "simplified": "kèguān",
+    "pinyin": "objective",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "可乐",
+    "simplified": "kělè",
+    "pinyin": "amusing, entertaining, (loanword) cola",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "克服",
+    "simplified": "kèfú",
+    "pinyin": "surmount, conquer, put up with (hardship/etc.)",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "空",
+    "simplified": "kōng",
+    "pinyin": "free, with spare time",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "课程",
+    "simplified": "kèchéng",
+    "pinyin": "course of instruction, lesson, course, course of lectures, course of study, curricular, class, curricula, syllabus, curriculum, program",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "空调",
+    "simplified": "kōngtiáo",
+    "pinyin": "air conditioner, air-conditioning, air-conditioner",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "裤子",
+    "simplified": "kùzi",
+    "pinyin": "breeches, pant, unmentionables, britches, trouser, continuation, breeks, bags, unmentionable, inexpressible, pants, pantaloon, trousers",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "空儿",
+    "simplified": "kòngr5",
+    "pinyin": "spare time, free time",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "快速",
+    "simplified": "kuàisù",
+    "pinyin": "expeditious, high-speed, fast, rapid, clip",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "困",
+    "simplified": "kùn",
+    "pinyin": "sleepy, tired",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "困难",
+    "simplified": "kùnnan",
+    "pinyin": "difficult",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "恐怕",
+    "simplified": "kǒngpà",
+    "pinyin": "perhaps",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "浪费",
+    "simplified": "làngfèi",
+    "pinyin": "waste, squander",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "老百姓",
+    "simplified": "lǎobǎixìng",
+    "pinyin": "plebe, populace, mister, civilians, roturier, ordinary people, common people",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "老板",
+    "simplified": "lǎobǎn",
+    "pinyin": "proprietor, chief, shopkeeper, Tuan, baas, honcho, hirer, storekeeper, milord, bwana, mugwump, cit, market keeper, buckra, governor, boss, joss, tradesman, employer, guv",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "老太太",
+    "simplified": "lǎotàitai",
+    "pinyin": "old lady, your (my/his/etc.) mother",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "老头儿",
+    "simplified": "lǎotóur5",
+    "pinyin": "see 老頭子|老头子[lao3 tou2 zi5]",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "乐",
+    "simplified": "lè",
+    "pinyin": "happy, cheerful, be glad to, enjoy, be amused",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "乐观",
+    "simplified": "lèguān",
+    "pinyin": "be optimistic; be hopeful",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "类似",
+    "simplified": "lèisì",
+    "pinyin": "analogize, conform, analogic, be similar to, resemble, similar, analogous",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "离婚",
+    "simplified": "lí hūn",
+    "pinyin": "divorce",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "里面",
+    "simplified": "lǐmian",
+    "pinyin": "inside, interior",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "类",
+    "simplified": "lèi",
+    "pinyin": "m.[kind]",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "理发",
+    "simplified": "lǐ fà",
+    "pinyin": "a barber, hairdressing",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "理论",
+    "simplified": "lǐlùn",
+    "pinyin": "theory",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "理由",
+    "simplified": "lǐyóu",
+    "pinyin": "excuse, reasoning, reason, wherefore, argument, meaning, account, cause, room, alibi, substance, warranty, matter, justification, occasion, score, warrant, ground, sake, why, grounds, consideration, self-justification, skill",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "理解",
+    "simplified": "lǐjiě",
+    "pinyin": "understand, comprehend",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "力量",
+    "simplified": "lìliang",
+    "pinyin": "fibre, strength, potency, ability, guts, kick, cogency, point, dint, energy, mightiness, physical strength, demon, force, punch, whiz, tooth, might, forcefulness, exercise, fiber, powerfulness, lift, pith, leverage, agency, push, muscle, power",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "力",
+    "simplified": "lì",
+    "pinyin": "power, strength, ability, force, physical strength",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "利用",
+    "simplified": "lìyòng",
+    "pinyin": "use, utilize, take advantage of, exploit",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "连",
+    "simplified": "lián",
+    "pinyin": "conj.: including",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "立刻",
+    "simplified": "lìkè",
+    "pinyin": "in a short time, at_once, promptly, offhand, at once, anon, instantly, straightway, now, slapbang, pronto, right_away, immediately, without delay, right away, forthwith, presto, at a time, before long, in a minute, swith, directly, in no time, incontinent, subito, without_delay, in real time, shortly, tout-de-suite, away, soon, presently, in a few seconds, very fast, chop-chop, at o",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "连忙",
+    "simplified": "liánmáng",
+    "pinyin": "promptly, at once",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "连续剧",
+    "simplified": "liánxùjù",
+    "pinyin": "serialized drama, dramatic series, show in parts",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "联合国",
+    "simplified": "Liánhéguó",
+    "pinyin": "alignment, United Nations, United_Nations, alliance, confederation, coalition, confederate, alinement, UN",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "连续",
+    "simplified": "liánxù",
+    "pinyin": "continuously, successively",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "联系",
+    "simplified": "liánxì",
+    "pinyin": "integrate, relate, link, get in touch with",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "联合",
+    "simplified": "liánhé",
+    "pinyin": "unite, ally",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "凉水",
+    "simplified": "liángshuǐ",
+    "pinyin": "cool water, unboiled water",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "了",
+    "simplified": "le",
+    "pinyin": "entirely",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "领",
+    "simplified": "lǐng",
+    "pinyin": "receive, draw, get, have jurisdiction over, be in possession of",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "领导",
+    "simplified": "lǐngdǎo",
+    "pinyin": "lead, exercise leadership",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "领先",
+    "simplified": "lǐng xiān",
+    "pinyin": "lead, lead (in competition), precede, lead_up, be in lead, show, be in the lead, get the jump",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "另一方面",
+    "simplified": "lìngyīfāngmiàn",
+    "pinyin": "conj.: on the other hand",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "留学",
+    "simplified": "liú xué",
+    "pinyin": "study abroad",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "龙",
+    "simplified": "lóng",
+    "pinyin": "dragon, dinosaur",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "另外",
+    "simplified": "lìngwài",
+    "pinyin": "conj.: in addition, besides, moreover",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "录",
+    "simplified": "lù",
+    "pinyin": "surname Lu, diary, record, to hit, to copy",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "路线",
+    "simplified": "lùxiàn",
+    "pinyin": "track, path, cart track, way of life, itinerary, route, cartroad, course, road, channel, line, way, routeway, pipeline, curriculum",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "旅馆",
+    "simplified": "lǚguǎn",
+    "pinyin": "gasthaus, caravanserai, nonresident, roadhouse, hotel, lodge, hostler, hostel, fonda, ordinary, inn, hostelry",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "录音",
+    "simplified": "lùyīn",
+    "pinyin": "record sound",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "旅行社",
+    "simplified": "lǚxíngshè",
+    "pinyin": "a tourist agency, travel_agency, a travel agency, travel service/agent, travel service, travel agent, travel agency",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "绿茶",
+    "simplified": "lǜchá",
+    "pinyin": "green tea",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "落后",
+    "simplified": "luò hòu",
+    "pinyin": "fall/lay behind",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "麻烦",
+    "simplified": "máfan",
+    "pinyin": "trouble sb., bother",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "满足",
+    "simplified": "mǎnzú",
+    "pinyin": "fulfill, fit, cope with, fill, be satisfied/contented, gloat, contented, arrive, be satisfied, satisfy, sate, gratify, serve, meet, appease, replete, supply, satisfied, fulfill, suffice, assuage, satiate, content, be contented, conform to, suit, match",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "乱",
+    "simplified": "luàn",
+    "pinyin": "indiscriminate, riot, mix up, arbitrary, confused, throw into diorder, confuse, jumble, confusion, random, mishandle, in a turmoil, in a confused state of mind, snarl, in disorder, disturb",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "慢慢",
+    "simplified": "mànmàn",
+    "pinyin": "slowly; gradually",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "马",
+    "simplified": "mǎ",
+    "pinyin": "horse",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "毛",
+    "simplified": "máo",
+    "pinyin": "Mao, wool, bristle, nap, pilus, down, feather, mold, mildew, Surname, hair, 1 1 0 th yuan, 1 0 th yuan, dime, silk, cent, fur, marking",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "没用",
+    "simplified": "méiyòng",
+    "pinyin": "useless",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "毛病",
+    "simplified": "máobing",
+    "pinyin": "trouble, mishap, breakdown, defect, shortcoming, fault, mistake, illness",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "每",
+    "simplified": "měi",
+    "pinyin": "det.: every",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "媒体",
+    "simplified": "méitǐ",
+    "pinyin": "mass media, media, medium",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "美",
+    "simplified": "měi",
+    "pinyin": "beautiful, pretty",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "美丽",
+    "simplified": "měilì",
+    "pinyin": "beautiful",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "美好",
+    "simplified": "měihǎo",
+    "pinyin": "fine, happy, glorious",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "美术",
+    "simplified": "měishù",
+    "pinyin": "constructivism, beaux arts, beaux-arts, artistic production, artistic creation, painting, fineart, fine_art, cubism, art, fine arts",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "美元",
+    "simplified": "měiyuán",
+    "pinyin": "m.[standard]",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "米",
+    "simplified": "mǐ",
+    "pinyin": "rice, shelled/husked seed",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "美食",
+    "simplified": "měishí",
+    "pinyin": "cate, luxury, good food, delicious food, fleshpot",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "面对",
+    "simplified": "miànduì",
+    "pinyin": "face up, stand up, face, look_out_on, confront, front, affront, envisage, accost, breast",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "迷",
+    "simplified": "mí",
+    "pinyin": "to bewilder, crazy about, fan, enthusiast, lost, confused",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "民间",
+    "simplified": "mínjiān",
+    "pinyin": "grass roots, people-to-people, nongovernmental, among the people, folk, popular",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "民族",
+    "simplified": "mínzú",
+    "pinyin": "tribe, citizenry, ethnos, ethnic minority/group, race, nationality, group, Volk, nation, folk, people, ethnic group, ethnographer, family, ethnic minority",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "面积",
+    "simplified": "miànjī",
+    "pinyin": "area unit, area, superficies, superficial, acreage, expanse, surface_area, square_measure, surface area, content, space, square measure",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "明确",
+    "simplified": "míngquè",
+    "pinyin": "define, make clear/definite, make definite, definite, make clear",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "命运",
+    "simplified": "mìngyùn",
+    "pinyin": "foredoom, lot, appointment, lottery, fortune, chance, dole, circumstances, allotment, predestination, cup, luck, fare, destiny, portion, kismet, fate, doom, line, fatality, weird, hazard, karma",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "明显",
+    "simplified": "míngxiǎn",
+    "pinyin": "clear, obvious",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "某",
+    "simplified": "mǒu",
+    "pinyin": "det.: some, certain",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "母亲",
+    "simplified": "mǔqin",
+    "pinyin": "venter, materfamilias, mother, mither, sultana, maternal, female parent, mater",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "目标",
+    "simplified": "mùbiāo",
+    "pinyin": "polestar, objective, goal, bourn, object, meaning, aim, end point, target, cause, landmark, butt, lodestar, bull's eye, mark, tee, cynosure, end, bell ringer, loadstar, quaesitum, destination",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "目前",
+    "simplified": "mùqián",
+    "pinyin": "at the present time, currently",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "木头",
+    "simplified": "mùtou",
+    "pinyin": "slow-witted, blockhead, log (of wood, timber etc), CL:塊|块[kuai4],根[gen1]",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "男子",
+    "simplified": "nánzǐ",
+    "pinyin": "man, male",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "南部",
+    "simplified": "nánbù",
+    "pinyin": "meridional, the southern part of the country, southern part, South, south, the south",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "奶茶",
+    "simplified": "nǎichá",
+    "pinyin": "milk tea",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "难道",
+    "simplified": "nándào",
+    "pinyin": "Do you really mean to say that...",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "难度",
+    "simplified": "nándù",
+    "pinyin": "trouble, problem",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "内心",
+    "simplified": "nèixīn",
+    "pinyin": "interior, inner being, conscience, inside, breast, bosom, innermost being, incenter, heart",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "内",
+    "simplified": "nèi",
+    "pinyin": "inside",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "内容",
+    "simplified": "nèiróng",
+    "pinyin": "subject_matter, content, cognitive content, internal, contents, mental object, meat, substance, matter, lining",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "能不能",
+    "simplified": "néng bùnéng",
+    "pinyin": "Can you",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "年代",
+    "simplified": "niándài",
+    "pinyin": "a decade of a century (e.g. the Sixties), age, era, period, CL:個|个[ge4]",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "能力",
+    "simplified": "nénglì",
+    "pinyin": "department, potency, ability, acquisition, acquirement, capacity, performance, oomph, sufficiency, energy, competence, accomplishment, size, might, faculty, hand, coequal, efficiency, inner resources, capability, giftie, attainment, capableness, zip, skill, competency, power",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "年初",
+    "simplified": "niánchū",
+    "pinyin": "beginning of year",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "年纪",
+    "simplified": "niánjì",
+    "pinyin": "years, old age, age",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "念",
+    "simplified": "niàn",
+    "pinyin": "study, read, attend school, think_of, read aloud, think of, miss",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "年底",
+    "simplified": "niándǐ",
+    "pinyin": "the end of the year, year-end",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "农民",
+    "simplified": "nóngmín",
+    "pinyin": "mujik, farmhand, granger, boor, farm worker, peasantry, countrymen, farmer, agriculture, husbandman, muzhik, peasant, fieldhand, moujik, fellah, muzjik",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "牛",
+    "simplified": "niú",
+    "pinyin": "ox, cattle, cow",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "农村",
+    "simplified": "nóngcūn",
+    "pinyin": "country, village, countryside, rural area",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "农业",
+    "simplified": "nóngyè",
+    "pinyin": "farm, farming, geoponics, husbandry, agricultural, plow, agriculture",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "女子",
+    "simplified": "nǚzǐ",
+    "pinyin": "lady, female, femme, young lady, adult female, missy, young woman, fem, moll, womankind, fille, damsel, girl, miss, woman, wren, blade",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "暖和",
+    "simplified": "nuǎnhuo",
+    "pinyin": "warm, nice and warm",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "怕",
+    "simplified": "pà",
+    "pinyin": "I'm afraid, dread, funk, I suppose, be afraid of, fear",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "拍",
+    "simplified": "pāi",
+    "pinyin": "clap, pat, lick sb.'s boots",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "排",
+    "simplified": "pái",
+    "pinyin": "stand in line, arrange, put in order, sequence",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "排名",
+    "simplified": "pái míng",
+    "pinyin": "put names in order",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "牌子",
+    "simplified": "páizi",
+    "pinyin": "sign, trademark, brand",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "派",
+    "simplified": "pài",
+    "pinyin": "send, dispatch, assign, appoint",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "判断",
+    "simplified": "pànduàn",
+    "pinyin": "judge, determine",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "配合",
+    "simplified": "pèihe",
+    "pinyin": "coordinate, cooperate",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "跑步",
+    "simplified": "pǎo bù",
+    "pinyin": "to run, to jog, (military) to march at the double",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "胖",
+    "simplified": "pàng",
+    "pinyin": "fat, stout, plump",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "配",
+    "simplified": "pèi",
+    "pinyin": "match, find sth. to fit/replace sth. else, deserve, be worthy of, be qualified, compound, mix",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "批评",
+    "simplified": "pīpíng",
+    "pinyin": "criticize",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "批准",
+    "simplified": "pī zhǔn",
+    "pinyin": "to approve, to ratify",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "皮",
+    "simplified": "pí",
+    "pinyin": "skin, leather, hide, wrapper, surface, thin/flat pieces/sheets, rubber",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "啤酒",
+    "simplified": "píjiǔ",
+    "pinyin": "malt liquor, malt, suds, nappy, wallop, beery, malt_liquor, stout, barley-bree, brewage, beer",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "票价",
+    "simplified": "piàojià",
+    "pinyin": "ticket price, fare, admission fee",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "皮包",
+    "simplified": "píbāo",
+    "pinyin": "handbag, briefcase",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "评价",
+    "simplified": "píngjià",
+    "pinyin": "estimate, diagnoses, appraisal, mark, rating, rate, value, assessment, esteem, image, estimation, valuation, appraisement, opinion, rank, remark, evaluation",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "苹果",
+    "simplified": "píngguǒ",
+    "pinyin": "mincemeat, pome, apple, Empire",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "破坏",
+    "simplified": "pòhuài",
+    "pinyin": "violate, destroy",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "普遍",
+    "simplified": "pǔbiàn",
+    "pinyin": "universal, general, widespread, common",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "普及",
+    "simplified": "pǔjí",
+    "pinyin": "popularize, disseminate, spread",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "期",
+    "simplified": "qī",
+    "pinyin": "m.[event]",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "破",
+    "simplified": "pò",
+    "pinyin": "tear, split up, defeat, expose, eradicate, lay bare, cleave, expose the truth of, worn-out, break with, come apart, destroy, capture (city/etc.), defeat (enemy), broken, expose (lie/etc.), destruction, cut, separate, tattered, reveal truth, fall apart, beat, capture, split, not intact, rupture, get rid of, do away with, break",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "齐",
+    "simplified": "qí",
+    "pinyin": "complete, prepared, together",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "其实",
+    "simplified": "qíshí",
+    "pinyin": "as a matter of fact, actually, in fact",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "其次",
+    "simplified": "qícì",
+    "pinyin": "conj.: next, second",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "气候",
+    "simplified": "qìhòu",
+    "pinyin": "situation, clime, climatic, climate, weather, climactic",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "千万",
+    "simplified": "qiānwàn",
+    "pinyin": "by all means; absolutely",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "前后",
+    "simplified": "qiánhòu",
+    "pinyin": "front and rear, around or about, altogether",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "奇怪",
+    "simplified": "qíguài",
+    "pinyin": "wonder",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "前进",
+    "simplified": "qiánjìn",
+    "pinyin": "go forward",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "前往",
+    "simplified": "qiánwǎng",
+    "pinyin": "depart, cruise, go_to, go, leave, go to, proceed to, pay, seek, leave for",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "前面",
+    "simplified": "qiánmian",
+    "pinyin": "front end, face, forepart, front, in front, ahead, preceding, above, fore, forgoing, frontage, obverse",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "强",
+    "simplified": "qiáng",
+    "pinyin": "strong, powerful, vigorous, better, slightly more than, plus",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "强大",
+    "simplified": "qiángdà",
+    "pinyin": "big and powerful, formidable",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "强调",
+    "simplified": "qiángdiào",
+    "pinyin": "underscore, spotlight, place emphasis on, point_up, highlight, point, point up, enforce, emphasise, urge, underline, overstress, give emphasis to, play up, keynote, insist, punctuate, accent, betone, foreground, emphasize, emphatic, stress, set off, overemphasize, accentuate, bring out",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "强烈",
+    "simplified": "qiángliè",
+    "pinyin": "strong, intense, violent",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "巧",
+    "simplified": "qiǎo",
+    "pinyin": "clever, intelligent, skillful, ingenious, artful, deceiving, pretty, cute, opportune, fortuitous, coincidental",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "桥",
+    "simplified": "qiáo",
+    "pinyin": "backbend, fret, span, pons, pier arch, bridge, spar",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "亲切",
+    "simplified": "qīnqiè",
+    "pinyin": "cordial, genial, warm",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "亲人",
+    "simplified": "qīnrén",
+    "pinyin": "those dear to one, one's parents, spouse, children, etc., one's family members, dear ones, relative, close relatives, folks",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "亲",
+    "simplified": "qīn",
+    "pinyin": "parent, one's own (flesh and blood), relative, related, marriage, bride, close, intimate, in person, first-hand, in favor of, pro-, to kiss, (Internet slang) dear, parents-in-law of one's offspring",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "情感",
+    "simplified": "qínggǎn",
+    "pinyin": "affect, friendship, sensibility, bond, emotion, bosom, breast, sentiment, emotional, chasm, feeling, feelings",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "请教",
+    "simplified": "qǐngjiào",
+    "pinyin": "consultation, Please enlighten me., seek advice, take counsel, consult, ask, ask for advice",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "情况",
+    "simplified": "qíngkuàng",
+    "pinyin": "event, things, state of affairs, circumstantiality, case, circumstances, way, plight, experimental condition, streak, military situation, matter, condition, mood, circumstance, context, occasion, thing, instance, affair, shape, situation, juncture, consideration",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "亲自",
+    "simplified": "qīnzì",
+    "pinyin": "personally, in person, firsthand",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "球迷",
+    "simplified": "qiúmí",
+    "pinyin": "fan (ball sports), CL:個|个[ge4]",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "取消",
+    "simplified": "qǔxiāo",
+    "pinyin": "cancel, abolish, nullify",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "庆祝",
+    "simplified": "qìngzhù",
+    "pinyin": "fete, celebration, keep, festive, commemorate, celebrate, observe, rejoice, felicitate",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "区",
+    "simplified": "qū",
+    "pinyin": "surname Ou, area, region, district, small, distinguish, CL:個|个[ge4]",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "去世",
+    "simplified": "qùshì",
+    "pinyin": "die, pass away",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "全场",
+    "simplified": "quánchǎng",
+    "pinyin": "everyone present, the whole audience, across-the-board, unanimously, whole duration (of a competition or match)",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "全面",
+    "simplified": "quánmiàn",
+    "pinyin": "overall, comprehensive, all-round, all-out",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "全球",
+    "simplified": "quánqiú",
+    "pinyin": "global, whole world",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "区别",
+    "simplified": "qūbié",
+    "pinyin": "difference, to distinguish, to discriminate, to make a distinction, CL:個|个[ge4]",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "缺少",
+    "simplified": "quēshǎo",
+    "pinyin": "lack, be short of",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "缺点",
+    "simplified": "quēdiǎn",
+    "pinyin": "privilege, bug, failing, flaw, demerit, blemish, debit, limitation, mar, defect, glitch, foible, infirmity, blot, vice, drawback, disadvantage, imperfection, blemishment, weakness, tache, defection, shortcoming, malady, frailty, fault",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "缺",
+    "simplified": "quē",
+    "pinyin": "be short of, lack",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "确保",
+    "simplified": "quèbǎo",
+    "pinyin": "secure, insure, ensure, assure, reassure, guarantee",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "确定",
+    "simplified": "quèdìng",
+    "pinyin": "find, determination, make a point, pin down, narrow down, corroborate, prove, jell, settle, express, ensure, clench, assure, confirm, decide firmly, see, certain, define, clinch, nail_down, ascertain, determinate, guarantee, nail down, insure, fix, nail, peg, sustain, state, stipulate, secure, make_sure, seal, make sure, verify, find out, affirm, determine",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "群",
+    "simplified": "qún",
+    "pinyin": "m.[general]",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "确实",
+    "simplified": "quèshí",
+    "pinyin": "really, certainly, truly, indeed",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "裙子",
+    "simplified": "qúnzi",
+    "pinyin": "skirt, CL:條|条[tiao2]",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "热烈",
+    "simplified": "rèliè",
+    "pinyin": "ardent",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "热爱",
+    "simplified": "rèài",
+    "pinyin": "love ardently",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "人才",
+    "simplified": "réncái",
+    "pinyin": "talent, capable person, a talented person, qualified personnel, a person of ability",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "人类",
+    "simplified": "rénlèi",
+    "pinyin": "man, wight, human_being, human, human race, mankind, individual, human species, Homo_sapiens, populace, creature, hominid, world, mortality, microcosm, humans, humanitarianism, humanity, humanness, human beings/species, people, species, humankind, human beings, public, mortal",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "人工",
+    "simplified": "réngōng",
+    "pinyin": "man-made, artificiality, manual work, manpower, art, labor",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "人民",
+    "simplified": "rénmín",
+    "pinyin": "multitude, citizen, quarter, Volk, hoi polloi, subject, people, nationals, masses, the people, mass, demotic",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "人民币",
+    "simplified": "rénmínbì",
+    "pinyin": "RMB, PRC currency",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "人群",
+    "simplified": "rénqún",
+    "pinyin": "multitude, scrooge, herd, ruck, scrouge, meiny, crowd, troop, confluence, drove, throng, flock, gang",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "人生",
+    "simplified": "rénshēng",
+    "pinyin": "lifetime, life, lifespan, human life, time of life",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "人员",
+    "simplified": "rényuán",
+    "pinyin": "strength, personnel, force, staff",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "认得",
+    "simplified": "rèn de",
+    "pinyin": "to recognize, to remember sth (or sb) on seeing it, to know",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "认出",
+    "simplified": "rèn chū",
+    "pinyin": "recognition, to recognize",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "认可",
+    "simplified": "rènkě",
+    "pinyin": "to approve, approval, acknowledgment, OK",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "任",
+    "simplified": "rèn",
+    "pinyin": "serve in a position, appoint to a position",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "任何",
+    "simplified": "rènhé",
+    "pinyin": "aught, det.: any",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "仍然",
+    "simplified": "réngrán",
+    "pinyin": "still, yet",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "仍",
+    "simplified": "réng",
+    "pinyin": "yet, anyway, still",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "任务",
+    "simplified": "rènwu",
+    "pinyin": "imperative, assignment, cue, duty assignment, task, service, chore, labor, errand, job, lookout, undertaking, mission, military mission, duty, project, role",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "日常",
+    "simplified": "rìcháng",
+    "pinyin": "daily, everyday",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "如何",
+    "simplified": "rúhé",
+    "pinyin": "how",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "容易",
+    "simplified": "róngyì",
+    "pinyin": "easy",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "沙发",
+    "simplified": "shāfā",
+    "pinyin": "lounge, settee, sofa",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "散步",
+    "simplified": "sàn bù",
+    "pinyin": "take a walk",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "伤心",
+    "simplified": "shāng xīn",
+    "pinyin": "injure, offend, broken-hearted, be sad, pierce, hurt, grieved, sad, spite, aggrieve, grieve, be grieved, sadden, smart, wound",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "伤",
+    "simplified": "shāng",
+    "pinyin": "injure, wound, fall ill from, damage, harm",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "商业",
+    "simplified": "shāngyè",
+    "pinyin": "business enterprise, commercial, people, mercantilism, commercial pursuit, commercial enterprise, business sector, merchantry, trade, mercantile pursuit, business, commerce",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "商品",
+    "simplified": "shāngpǐn",
+    "pinyin": "article, product, merchandise, commodity, wares, ware, goods",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "上面",
+    "simplified": "shàngmian",
+    "pinyin": "surface of, aspect, higher authority, upper side, the higher authorities, on top/surface of, on surface of, top, the higher-ups, top side, upside, on top of, respect, above, on top, regard",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "上去",
+    "simplified": "shàng qu",
+    "pinyin": "to go up",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "上来",
+    "simplified": "shàng lai",
+    "pinyin": "come_up, come up",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "上升",
+    "simplified": "shàngshēng",
+    "pinyin": "rise",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "沙子",
+    "simplified": "shāzi",
+    "pinyin": "sand, grit, CL:粒[li4],把[ba3]",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "上衣",
+    "simplified": "shàngyī",
+    "pinyin": "jacket, upper outer garment, CL:件[jian4]",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "设计",
+    "simplified": "shèjì",
+    "pinyin": "design, plan",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "设备",
+    "simplified": "shèbèi",
+    "pinyin": "installation, set, device, appointment, plant, fixing, system, appliance, fixture, fitting, accommodation, fitment, finishing, unit, furnishings, materiel, contrivance, paraphernalia, facilities, rig, equipage, setout, facility, fixings, equipment",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "设立",
+    "simplified": "shèlì",
+    "pinyin": "establish, found",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "身份证",
+    "simplified": "shēnfènzhèng",
+    "pinyin": "identity card, ID",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "社会",
+    "simplified": "shèhuì",
+    "pinyin": "community, society, monde, social, public",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "深刻",
+    "simplified": "shēnkè",
+    "pinyin": "deep, profound",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "深",
+    "simplified": "shēn",
+    "pinyin": "deepen, penetrating, profound, deep, dark",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "深入",
+    "simplified": "shēnrù",
+    "pinyin": "thorough, deep-going",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "生产",
+    "simplified": "shēngchǎn",
+    "pinyin": "produce, manufacture",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "生存",
+    "simplified": "shēngcún",
+    "pinyin": "live, exist",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "升",
+    "simplified": "shēng",
+    "pinyin": "litre, raise variant of 升[sheng1]",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "生动",
+    "simplified": "shēngdòng",
+    "pinyin": "lively, moving, vivid, lifelike",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "生命",
+    "simplified": "shēngmìng",
+    "pinyin": "breath, god, head, anima, days, organism, blood, life, living thing, skin, longevity, being, vital, life form",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "生意",
+    "simplified": "shēngyi",
+    "pinyin": "business enterprise, vocation, practice, merchant, dealing, patronage, deal, commercial enterprise, trade, biz, business, dealings, racket",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "生长",
+    "simplified": "shēngzhǎng",
+    "pinyin": "grow, develop",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "生",
+    "simplified": "shēng",
+    "pinyin": "give birth to, bear, grow, get, have, cause to happen, make (a fire), exist, live",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "声明",
+    "simplified": "shēngmíng",
+    "pinyin": "statement, pronouncement",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "胜",
+    "simplified": "shèng",
+    "pinyin": "be superior to, surpass, succeed, win victory, be victorious, get the better of, can bear, carry, excel, be successful, win",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "胜利",
+    "simplified": "shènglì",
+    "pinyin": "win victory/success",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "石头",
+    "simplified": "shítou",
+    "pinyin": "stony, chimney, rock, lapis, stone",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "石油",
+    "simplified": "shíyóu",
+    "pinyin": "crude, rock oil, crude oil, oil, coal oil, fossil_oil, fossil oil, petroleum",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "时",
+    "simplified": "shí",
+    "pinyin": "time (when), period, hour",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "失去",
+    "simplified": "shīqù",
+    "pinyin": "desert, shear, outgrow, loss, lost, miss, lose",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "时代",
+    "simplified": "shídài",
+    "pinyin": "day, period, a period in one's life, epoch, present time, historical period, time, chapter, period in one's life, modern times, historic period, contemporary world, times, era, modern world, age",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "实际上",
+    "simplified": "shíjìshang",
+    "pinyin": "in fact, in reality, as a matter of fact, in practice",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "实行",
+    "simplified": "shíxíng",
+    "pinyin": "put into effect, fulfil, put ... into practice, practise, practice, put into practice/effect, live, pass, obtain, prosecute, cause, phase, meet, carry_out, pull, effect, operate, carry out, actualize, use, effectuate, put ... into effect, perform, apply, put into practice, run, implement, execute, do, make, wage, implementation",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "实力",
+    "simplified": "shílì",
+    "pinyin": "strength, actual strength, efficiency",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "时刻",
+    "simplified": "shíkè",
+    "pinyin": "moment, occasion, juncture, sand, hour, time",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "实验室",
+    "simplified": "shíyànshì",
+    "pinyin": "lab, science lab, laboratory",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "实验",
+    "simplified": "shíyàn",
+    "pinyin": "experiment, test",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "食品",
+    "simplified": "shípǐn",
+    "pinyin": "menu, vivers, viand, chow, eatable, provisions, tuck, foodstuff, viands, nourishment, comestible, tack, nutrient, victual, food, grocery, victualage, cuisine",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "始终",
+    "simplified": "shǐzhōng",
+    "pinyin": "all_the_time, from beginning to end, from start to finish, always, all along, evermore, throughout",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "使",
+    "simplified": "shǐ",
+    "pinyin": "rarefy, piss_off, germinate, drench, blow_out, leave, cut_up, refract, run, dress_up, compose, shed, frizz, put_off, trot, send, strike, send (as envoy), peal, alienate, pull_in, tone_up, bring around, astound, sublease, wither, cripple, bed_down, address, rehearse, usage, warm, smell_out, throw, inflect, get_down, skunk, capsize, congeal, bowl_over, bring_on, unseat, ensure, amalgamate, pro",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "世纪",
+    "simplified": "shìjì",
+    "pinyin": "one C, centred, C, century, age, hundred, 100",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "世界",
+    "simplified": "shìjiè",
+    "pinyin": "mundane, creation, world, monde, orb, nature, domain",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "市场",
+    "simplified": "shìchǎng",
+    "pinyin": "bourse, bazar, marketplace, grocery store, agora, bazaar, securities industry, grocery, piazza, plaza, rialto, mart, pitch, market",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "世界杯",
+    "simplified": "shìjièbēi",
+    "pinyin": "World Cup",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "事故",
+    "simplified": "shìgù",
+    "pinyin": "circumstance, trouble, mischance, accident, mishap, affair, bad luck, natural event, happening, occurrence",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "事件",
+    "simplified": "shìjiàn",
+    "pinyin": "fact, event, page, incidental, go, case, job, natural event, timing, proceedings, social occasion, happening, occurrence, matter, occasion, incident, shebang, affair, chapter, concernment",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "事实",
+    "simplified": "shìshí",
+    "pinyin": "mood, circumstance, fact, factual, reality, verity, case, deed, sooth, troth, actuality, truth, matter, matter of fact",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "事实上",
+    "simplified": "shìshíshang",
+    "pinyin": "in fact, in reality, actually, as a matter of fact, de facto, ipso facto",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "事业",
+    "simplified": "shìyè",
+    "pinyin": "proposition, task, pidgin, institution, undertaking, deed, facilities, life history, endeavour, endeavor, cause, career, project, action, enterprise",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "试验",
+    "simplified": "shìyàn",
+    "pinyin": "test, experiment",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "试题",
+    "simplified": "shìtí",
+    "pinyin": "exam question, test topic",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "适合",
+    "simplified": "shìhé",
+    "pinyin": "qualify, conform, fit, go, befit, quadrate, will, accord, tailor, beseem, serve, comport, gee, answer, become, fit_in, service, pertain, like, accommodate, agree, belong, characterize, make, suit, match",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "适用",
+    "simplified": "shìyòng",
+    "pinyin": "applicable, lend oneself, apply, be applicable, suit",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "适应",
+    "simplified": "shìyìng",
+    "pinyin": "be accustomed to, conform, be used to, fit, humor, gear, orient, phase, adjust, accommodate, be accustomed, be inure to, get used to, adaptation, adapt, suit",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "收费",
+    "simplified": "shōu fèi",
+    "pinyin": "collect fees, charge",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "收看",
+    "simplified": "shōukàn",
+    "pinyin": "watch, tune in, watch (e.g., receive, look in, watch (e.g., TV), tune into, TV)",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "室",
+    "simplified": "shì",
+    "pinyin": "surname Shi, room, work unit, grave, scabbard, family or clan, one of the 28 constellations of Chinese astronomy",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "收听",
+    "simplified": "shōutīng",
+    "pinyin": "to listen (to), to listen (in)",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "手续",
+    "simplified": "shǒuxù",
+    "pinyin": "formality, procedures, formalities, procedure",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "收音机",
+    "simplified": "shōuyīnjī",
+    "pinyin": "radio, CL:臺|台[tai2]",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "首都",
+    "simplified": "shǒudū",
+    "pinyin": "capital (of country)",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "手指",
+    "simplified": "shǒuzhǐ",
+    "pinyin": "finger",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "首先",
+    "simplified": "shǒuxiān",
+    "pinyin": "first (of all), in the first place",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "受伤",
+    "simplified": "shòu shāng",
+    "pinyin": "injure, bruise, injured, be wounded, crush, hurt, sustain an injury, be injured, wounded, maimed, wound",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "受",
+    "simplified": "shòu",
+    "pinyin": "passive signifier",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "输",
+    "simplified": "shū",
+    "pinyin": "lose, be defeated",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "书架",
+    "simplified": "shūjià",
+    "pinyin": "bookshelf, CL:個|个[ge4]",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "熟人",
+    "simplified": "shúrén",
+    "pinyin": "acquaintance, friend",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "输入",
+    "simplified": "shūrù",
+    "pinyin": "import, input",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "属",
+    "simplified": "shǔ",
+    "pinyin": "belong, be born in the year of, belong to, be subordinate to, be",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "束",
+    "simplified": "shù",
+    "pinyin": "surname Shu, to bind, bunch, bundle, classifier for bunches, bundles, beams of light etc, to control",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "属于",
+    "simplified": "shǔyú",
+    "pinyin": "fall under, be part of, pertain, appertain, belong, relegate, fall into, belong_to, fall_under, reside, belong to, attach",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "双方",
+    "simplified": "shuāngfāng",
+    "pinyin": "both, the two parties, two parties, both sides",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "数量",
+    "simplified": "shùliàng",
+    "pinyin": "magnitude, scalar, aggregate, deal, measure, numerical quantity, measurement, sum, worth, amount, quantity, number",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "思想",
+    "simplified": "sīxiǎng",
+    "pinyin": "cogitation, mentation, imagery, imaging, lunatic_fringe, mental imagery, idea, thinking, imagination, ideology, thought, pensee, ideological",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "双",
+    "simplified": "shuāng",
+    "pinyin": "m.[general]",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "死",
+    "simplified": "sǐ",
+    "pinyin": "die",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "速度",
+    "simplified": "sùdù",
+    "pinyin": "pacing, wings, rate, quickness, fastness, velocity, swiftness, lick, pace, rapidity, speed, career, tempo",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "随",
+    "simplified": "suí",
+    "pinyin": "v.2 right after v.1",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "所",
+    "simplified": "suǒ",
+    "pinyin": "that which",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "台",
+    "simplified": "tái",
+    "pinyin": "short for Taiwan",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "所长",
+    "simplified": "suǒcháng",
+    "pinyin": "head of an institute/etc.",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "谈判",
+    "simplified": "tánpàn",
+    "pinyin": "negociate, treat, talks, negotiation, negotiate, talk terms, parley, palaver, negotiations, imparl",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "谈话",
+    "simplified": "tánhuà",
+    "pinyin": "talk, speech",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "谈",
+    "simplified": "tán",
+    "pinyin": "talk, chat",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "汤",
+    "simplified": "tāng",
+    "pinyin": "hot/boiling water, hot springs, soup, broth",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "糖",
+    "simplified": "táng",
+    "pinyin": "refined sugar, carob bar, negus, sugar, candy, carbohydrate, sweets",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "特色",
+    "simplified": "tèsè",
+    "pinyin": "motif, a character, a characteristic, manner, trait, differentiation, flavor, colour, singularity, distinction, characteristic, hue, stripe, physiognomy, a distinguishing feature, idiom, specialty, character, difference, particular, distinguishing feature, distinguishing feature/quality, salience, coloration, distinguishing quality, specific, feature, peculiarity, artistic st",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "提问",
+    "simplified": "tíwèn",
+    "pinyin": "to question, to quiz, to grill",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "提前",
+    "simplified": "tíqián",
+    "pinyin": "counter, foresee, shift to an earlier date, set ahead, advance date, advanced, advancement, move up, anticipate, advance, forestall",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "体会",
+    "simplified": "tǐhuì",
+    "pinyin": "know/learn from experience, realize",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "体现",
+    "simplified": "tǐxiàn",
+    "pinyin": "to embody, to reflect, to incarnate",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "题目",
+    "simplified": "tímù",
+    "pinyin": "exam questions, head, lemma, theme, thesis, examination questions, question, text, title, ground, subject, topic, exercise problems, chapter, caption, rubric, heading",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "体验",
+    "simplified": "tǐyàn",
+    "pinyin": "learn through practice/experience",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "天空",
+    "simplified": "tiānkōng",
+    "pinyin": "firmament, heavenly, empyrean, heavens, welkin, blue, canopy, cloud, the heavens, vault, air, sky, the sky, Aether, wild blue yonder, blue air, heaven, blue sky, space",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "甜",
+    "simplified": "tián",
+    "pinyin": "sweet, agreeable",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "跳",
+    "simplified": "tiào",
+    "pinyin": "ricochet, make omissions, sell grain, vault, hop, bounce, bound, omission, omit, palpitate, move up and down, skip over, beat, take, spring, skip, dance, hurdle, skip (over), jump, leap",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "跳高",
+    "simplified": "tiàogāo",
+    "pinyin": "high jump (athletics)",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "跳远",
+    "simplified": "tiàoyuǎn",
+    "pinyin": "long jump (athletics)",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "调整",
+    "simplified": "tiáozhěng",
+    "pinyin": "adjust, readjust, regulate, restructure, balance",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "铁",
+    "simplified": "tiě",
+    "pinyin": "shovel, smoothing iron, iron, ferrous, arms, Surname, Fe, ferrum, spade, weapon",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "跳舞",
+    "simplified": "tiào wǔ",
+    "pinyin": "hop, trip the light fantastic, trip, cakewalk, dancing, dance, saltate, hoof, step",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "听众",
+    "simplified": "tīngzhòng",
+    "pinyin": "auditor, listener, hearer, audience, auditory, gallery, listeners",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "听力",
+    "simplified": "tīnglì",
+    "pinyin": "hearing, listening ability",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "通常",
+    "simplified": "tōngcháng",
+    "pinyin": "normal, commonly, customarily, more often than not, general, usual, on average, as a rule, ordinarily, mostly, as usual, typically, generally, normally, by and large, unremarkably, on the average, usually",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "通信",
+    "simplified": "tōngxìn",
+    "pinyin": "communicate by letter, correspond",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "铁路",
+    "simplified": "tiělù",
+    "pinyin": "rails, railroad track, loop-line, rail, Pullman, railway, road, couchette, chemmy, railroad",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "停止",
+    "simplified": "tíngzhǐ",
+    "pinyin": "cease, flunk, desist, pass, suspend, stint, pass_off, break_up, stash, cut, stay, cessation, adjourn, rain_out, give, detain, blow_over, seize, give up, balk, cheese, abstain, refrain, knock_off, rest, abandon, break, knock off, drop, go, tie_up, stop, interdict, strike, lay_off, stow, cut off, discontinue, pause, leave_off, leave off, set aside, give_out, cut_out, give_up, delay, quit, cut out",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "同意",
+    "simplified": "tóngyì",
+    "pinyin": "agree, consent, approve",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "痛苦",
+    "simplified": "tòngkǔ",
+    "pinyin": "be painful; pain",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "痛",
+    "simplified": "tòng",
+    "pinyin": "ache, pain",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "头",
+    "simplified": "tóu",
+    "pinyin": "head, hair (style), top/end of sth., chief",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "头脑",
+    "simplified": "tóunǎo",
+    "pinyin": "pericranium, leader, head, noggin, brain, brains, main threads, clue, nous, loaf, bean, psyche, headpiece, mind, pate, skull",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "突出",
+    "simplified": "tū chū",
+    "pinyin": "outstanding",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "图",
+    "simplified": "tú",
+    "pinyin": "picture, drawing, chart, map",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "突然",
+    "simplified": "tūrán",
+    "pinyin": "suddenly, presto, unexpectedly, abruptly, at once, all_at_once, all together, all of a sudden, all at once",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "图画",
+    "simplified": "túhuà",
+    "pinyin": "drawing, picture",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "土",
+    "simplified": "tǔ",
+    "pinyin": "soil, earth, clay, land",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "团",
+    "simplified": "tuán",
+    "pinyin": "m.[proximation]",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "团结",
+    "simplified": "tuánjié",
+    "pinyin": "unite, rally",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "团体",
+    "simplified": "tuántǐ",
+    "pinyin": "fraternity, sect, phalanx, collective, body, group, sodality, element, organisation, corporation, confession, college, establishment, brotherhood, community, organization, squad, union, administration, society, army, commonwealth, consort, company, lineup, combine, governance, clan, combination, fellowship, organizational, bloc, team, party, connection, family, brass, squadron",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "推动",
+    "simplified": "tuī dòng",
+    "pinyin": "push forward, promote",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "推广",
+    "simplified": "tuīguǎng",
+    "pinyin": "popularize, spread, extend",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "推进",
+    "simplified": "tuījìn",
+    "pinyin": "to impel, to carry forward, to push on, to advance, to drive forward",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "推开",
+    "simplified": "tuīkāi",
+    "pinyin": "to push open (a gate etc), to push away, to reject, to decline",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "退",
+    "simplified": "tuì",
+    "pinyin": "retreat, retire, decline, ebb",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "退出",
+    "simplified": "tuì chū",
+    "pinyin": "withdraw from, quit",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "退休",
+    "simplified": "tuìxiū",
+    "pinyin": "to retire, to go into retirement, to step down",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "外交",
+    "simplified": "wàijiāo",
+    "pinyin": "diplomatics, diplomatic negotiations, diplomacy, nonintervention, diplomatism, diplomatic, foreign affairs",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "外文",
+    "simplified": "wàiwén",
+    "pinyin": "foreign language (written)",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "完美",
+    "simplified": "wánměi",
+    "pinyin": "perfect, consummate",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "外面",
+    "simplified": "wàimian",
+    "pinyin": "surface, outward appearance, without, outside, exterior",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "完整",
+    "simplified": "wánzhěng",
+    "pinyin": "complete, integrated, intact",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "完善",
+    "simplified": "wánshàn",
+    "pinyin": "perfect, consummate",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "玩具",
+    "simplified": "wánjù",
+    "pinyin": "yo-yo, bauble, plaything, toy, teether, knickknack",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "往往",
+    "simplified": "wǎngwǎng",
+    "pinyin": "oftentimes, ofttimes, always, more often than not, frequently, oft, often",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "危险",
+    "simplified": "wēixiǎn",
+    "pinyin": "dangerous, perilous",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "危害",
+    "simplified": "wēihài",
+    "pinyin": "to jeopardize, to harm, to endanger, harmful effect, damage, CL:個|个[ge4]",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "为",
+    "simplified": "wèi",
+    "pinyin": "by",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "伟大",
+    "simplified": "wěidà",
+    "pinyin": "great, mighty",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "卫生间",
+    "simplified": "wèishēngjiān",
+    "pinyin": "bathroom, toilet, WC, CL:間|间[jian1]",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "卫生",
+    "simplified": "wèishēng",
+    "pinyin": "hygiene, health, sanitation",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "为了",
+    "simplified": "wèile",
+    "pinyin": "in order to, for the purpose of, so as to",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "温暖",
+    "simplified": "wēnnuǎn",
+    "pinyin": "warm",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "围",
+    "simplified": "wéi",
+    "pinyin": "surname Wei, to encircle, to surround, all around, to wear by wrapping around (scarf, shawl)",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "文化",
+    "simplified": "wénhuà",
+    "pinyin": "civilization, literacy, acculturation, Kultur, vandalism, cultural, education, schooling, culture",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "文明",
+    "simplified": "wénmíng",
+    "pinyin": "civilization, culture",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "文件",
+    "simplified": "wénjiàn",
+    "pinyin": "page, documental, archive, writ, documents, data file, paper, document, judicial writ, literature, circular, documentation, portfolio, archives, file, written document, papers",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "文章",
+    "simplified": "wénzhāng",
+    "pinyin": "nonsense, hidden meaning, writing, hidden, written material, article, implied meaning, essay, writings, literary works, patch, hidden/implied meaning",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "文学",
+    "simplified": "wénxué",
+    "pinyin": "literary, philology, letters, letter, literature",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "握手",
+    "simplified": "wò shǒu",
+    "pinyin": "to shake hands",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "屋子",
+    "simplified": "wūzi",
+    "pinyin": "room, house",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "武器",
+    "simplified": "wǔqì",
+    "pinyin": "enginery, steel, arming, armament, weapons system, hardware, armored, armature, munition, weaponry, artillery, implements of war, armory, arms, ammunition, armor, weapon, arm, armoring",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "武术",
+    "simplified": "wǔshù",
+    "pinyin": "military skill or technique (in former times), all kinds of martial art sports (some claiming spiritual development), self-defense, tradition of choreographed fights from opera and film (recent usage), also called kungfu 功夫, CL:種|种[zhong3]",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "文字",
+    "simplified": "wénzì",
+    "pinyin": "writing, phraseology, writing style, language, endearment, script, written language, text, writing phraseology, writing style/phraseology, character, textual, characters, symbolic representation, version, word-sign, literal, letter, word, literalness",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "西部",
+    "simplified": "xībù",
+    "pinyin": "western part, West, westward, west, the west",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "舞台",
+    "simplified": "wǔtái",
+    "pinyin": "board, arena, bandstand, stage, proscenium, boards",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "下来",
+    "simplified": "xià lai",
+    "pinyin": "come down from a higher place",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "系",
+    "simplified": "xì",
+    "pinyin": "be",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "希望",
+    "simplified": "xīwàng",
+    "pinyin": "hope, wish",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "下去",
+    "simplified": "xià qu",
+    "pinyin": "go on, continue, go down, descend, take_up, descent",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "显然",
+    "simplified": "xiǎnrán",
+    "pinyin": "evidently, manifestly, clear, visibly, plainly, plain, distinctly, clearly, patently, apparently, obviously",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "先进",
+    "simplified": "xiānjìn",
+    "pinyin": "advance",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "显得",
+    "simplified": "xiǎnde",
+    "pinyin": "seem, look, appear",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "下面",
+    "simplified": "xiàmian",
+    "pinyin": "next, lower level, underside, following, underneath, subordinate, undersurface",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "显示",
+    "simplified": "xiǎnshì",
+    "pinyin": "demonstrate, argue, exhibit, prove, display, show, illustrate, manifest, demonstration, announce, stamp, unroll, witness, write, give, evince, dangle, betray, bespeak, say, profess, develop, indicate, signal, flaunt, read, register, manifestation, speak, reveal, evidence, tell, shew, proclaim, discover, stage, bear, establish, record, prognosticate, betoken, note, signalize",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "现场",
+    "simplified": "xiànchǎng",
+    "pinyin": "scene (of an incident), location, site, locale, scene of a crime, locality, live, scene, spot, field",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "现代",
+    "simplified": "xiàndài",
+    "pinyin": "modern",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "现金",
+    "simplified": "xiànjīn",
+    "pinyin": "quids, rhino, clink, ready, cash reserve in bank, dough, dust, ducat, kale, cash, blunt, till, ready money",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "现实",
+    "simplified": "xiànshí",
+    "pinyin": "reality, actuality",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "线",
+    "simplified": "xiàn",
+    "pinyin": "thread, string, wire",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "相当",
+    "simplified": "xiāngdāng",
+    "pinyin": "quite, fairly, considerably",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "相比",
+    "simplified": "xiāngbǐ",
+    "pinyin": "liken, equate, compare, comparison",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "现象",
+    "simplified": "xiànxiàng",
+    "pinyin": "phenomenon, phenomenal, appearance",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "相互",
+    "simplified": "xiānghù",
+    "pinyin": "each other, mutually, one another, in return, reciprocally",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "相关",
+    "simplified": "xiāngguān",
+    "pinyin": "cognate, relational, interrelate, associated, be interrelated, relevant, related, be mutually related",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "相似",
+    "simplified": "xiāngsì",
+    "pinyin": "resemblance, alike, be alike, be similar/alike, match, be similar, resemble",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "香",
+    "simplified": "xiāng",
+    "pinyin": "fragrant, scented, savory, appetizing, popular, welcome",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "香蕉",
+    "simplified": "xiāngjiāo",
+    "pinyin": "banana",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "消费",
+    "simplified": "xiāofèi",
+    "pinyin": "expenditure",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "消失",
+    "simplified": "xiāoshī",
+    "pinyin": "disappear, vanish, dissolve",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "消息",
+    "simplified": "xiāoxi",
+    "pinyin": "communication, witting, message, item, news, peep, info, intelligence, notice, information, advertisement, tidings, advert, word",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "写作",
+    "simplified": "xiězuò",
+    "pinyin": "writing",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "血",
+    "simplified": "xuè",
+    "pinyin": "claret, blood, hematic, lifeline, lifeblood, sap",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "效果",
+    "simplified": "xiàoguǒ",
+    "pinyin": "operation, execution, result, effect, background, sound effects, purpose, point, background signal, fruitage, outcome, force, punch",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "心",
+    "simplified": "xīn",
+    "pinyin": "heart, mind, feeling, center, core",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "信封",
+    "simplified": "xìnfēng",
+    "pinyin": "envelope, CL:個|个[ge4]",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "行李",
+    "simplified": "xíngli",
+    "pinyin": "clobber, impedimenta, dunnage, luggage, baggage",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "信任",
+    "simplified": "xìnrèn",
+    "pinyin": "trust, have confidence in",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "形成",
+    "simplified": "xíngchéng",
+    "pinyin": "take shape, form",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "形式",
+    "simplified": "xíngshì",
+    "pinyin": "circumstance, form, kind, modality, reading, interpretation, variety, shape, embodiment, species, mode, version, sort",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "形象",
+    "simplified": "xíngxiàng",
+    "pinyin": "imagery, figure, form, picture, persona, image",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "形状",
+    "simplified": "xíngzhuàng",
+    "pinyin": "set, figuration, physiognomy, form, appearance, shape",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "幸福",
+    "simplified": "xìngfú",
+    "pinyin": "happy",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "幸运",
+    "simplified": "xìngyùn",
+    "pinyin": "very fortunate, lucky",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "信",
+    "simplified": "xìn",
+    "pinyin": "letter, mail, message",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "性",
+    "simplified": "xìng",
+    "pinyin": "nature, character, sex, gender",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "性别",
+    "simplified": "xìngbié",
+    "pinyin": "sexuality, grammatical gender, sexual distinction, sex, gender",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "性格",
+    "simplified": "xìnggé",
+    "pinyin": "fibre, make-up, mettle, humor, nature, complexion, capacity, mentality, mould, mold, being, streak, temperament, personality, character, fiber, disposition, strain, makeup, make",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "修",
+    "simplified": "xiū",
+    "pinyin": "embellish, decorate, repair, mend, overhaul, build, construct, trim, prune",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "修改",
+    "simplified": "xiūgǎi",
+    "pinyin": "revise, amend, alter",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "需求",
+    "simplified": "xūqiú",
+    "pinyin": "need, requisition, demand, want, desiderative, requirement, call",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "需要",
+    "simplified": "xūyào",
+    "pinyin": "need, want, require, demand",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "宣布",
+    "simplified": "xuānbù",
+    "pinyin": "declare, proclaim, announce",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "宣传",
+    "simplified": "xuānchuán",
+    "pinyin": "propagandist, publicist",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "训练",
+    "simplified": "xùnliàn",
+    "pinyin": "training",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "选手",
+    "simplified": "xuǎnshǒu",
+    "pinyin": "participant, basketeer, athlete selected for a sports meet, basketball player, jock, contestant, cap, cager, athlete, player, champ, performer, player selected as contestant",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "学费",
+    "simplified": "xuéfèi",
+    "pinyin": "entrance_fee, tuition fee, premium, schooling, tuition",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "压",
+    "simplified": "yā",
+    "pinyin": "weight_down, hold down, push down, compact, constrict, be getting near, suppress, squeeze, compress, risk money on, quell, bring pressure to, pull, press, keep under control, throttle, push/hold down, intimidate, scrunch, weigh down, scrouge, daunt, shelve, pigeonhole, contract, approach, keep under, push, stake, control",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "压力",
+    "simplified": "yālì",
+    "pinyin": "force per unit area, P, strain, overwhelming force, pressure sensation, burdensomeness, oppressiveness, pressure, onerousness, stress, compulsion, constraint, muscle, lading",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "烟",
+    "simplified": "yān",
+    "pinyin": "smoke, mist, vapor",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "演",
+    "simplified": "yǎn",
+    "pinyin": "elaborate, development, practise, practice, develop, act, performance, represent, deduction, drill, play, evolution, evolve, play the part of, perform, play the role of, mount, elaboration, deduce",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "眼前",
+    "simplified": "yǎnqián",
+    "pinyin": "before one's eyes",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "演唱",
+    "simplified": "yǎnchàng",
+    "pinyin": "sing in performance",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "演唱会",
+    "simplified": "yǎnchànghuì",
+    "pinyin": "vocal recital",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "演员",
+    "simplified": "yǎnyuán",
+    "pinyin": "actor or actress, playactor, imitator, stage manager, barnstormer, actor, performer, impersonator, cast, performing artist, dramatis personae, role player, histrionic, thespian, trouper, player, cast of characters, stager, histrion",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "演出",
+    "simplified": "yǎnchū",
+    "pinyin": "show, perform",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "羊",
+    "simplified": "yáng",
+    "pinyin": "kidney, drover, baa, trotter, argali, mutton, sheep, Surname",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "阳光",
+    "simplified": "yángguāng",
+    "pinyin": "sunray, shine, sun, sunlight, sunshine, sunbeam",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "要是",
+    "simplified": "yàoshi",
+    "pinyin": "conj.: if, suppose, in case",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "一切",
+    "simplified": "yīqiè",
+    "pinyin": "det.: everything, every",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "衣架",
+    "simplified": "yījià",
+    "pinyin": "clothes hanger, clothes rack",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "以来",
+    "simplified": "yǐlái",
+    "pinyin": "since",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "已",
+    "simplified": "yǐ",
+    "pinyin": "already",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "一方面",
+    "simplified": "yīfāngmiàn",
+    "pinyin": "conj.: on one side, on the one hand..., on the other hand..., for one thing..., for another...",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "艺术",
+    "simplified": "yìshù",
+    "pinyin": "beaux-arts, aesthetical, artistic production, artistic, ars, art, academy, aesthetic, artistic creation, skill, craft, artistry, esthetic",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "意义",
+    "simplified": "yìyì",
+    "pinyin": "importance, significance, denotation, purport, drift, signality, emptiness, meaning, construction, bearing, substance, import, effect, insignificancy, hang, signification, sense",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "意外",
+    "simplified": "yìwài",
+    "pinyin": "accident, mishap",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "因此",
+    "simplified": "yīncǐ",
+    "pinyin": "conj.: therefore, consequently",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "银牌",
+    "simplified": "yínpái",
+    "pinyin": "silver medal, CL:枚[mei2]",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "印象",
+    "simplified": "yìnxiàng",
+    "pinyin": "effect, mark, impress, embossment, impressional, image, imprint, engram, sound, intuition, impression",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "应当",
+    "simplified": "yīngdāng",
+    "pinyin": "should",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "银",
+    "simplified": "yín",
+    "pinyin": "silver",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "迎接",
+    "simplified": "yíngjiē",
+    "pinyin": "greet, receive, welcome, accolade, meet",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "营养",
+    "simplified": "yíngyǎng",
+    "pinyin": "nutrition, nourishment",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "影视",
+    "simplified": "yǐngshì",
+    "pinyin": "movies and television",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "赢",
+    "simplified": "yíng",
+    "pinyin": "lick, beat, whip, gain, capot, win",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "应用",
+    "simplified": "yìngyòng",
+    "pinyin": "application, use",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "优点",
+    "simplified": "yōudiǎn",
+    "pinyin": "strong, merit, vantage, excellency, perfection, assets, beaut, advantage, excellence, upside, strong_point, good point, virtue, desert, desirability, strong point, long_suit, beauty, strong/good point, desirableness",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "由",
+    "simplified": "yóu",
+    "pinyin": "from, via, by, through, owing/due to",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "优势",
+    "simplified": "yōushì",
+    "pinyin": "ascendence, laterality, preponderancy, vantage, ascendancy, ascendent, transcendency, dominance, predominance, draw, gree, upper_hand, prevalence, advantage, mastery, ascendency, supremacy, advantageousness, control, preeminence, dominion, jump, edge, better, deadwood, overweight, superiority, domination, sovereignty, preponderance, ascendance, transcendence, prepotency, hank, asce",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "邮件",
+    "simplified": "yóujiàn",
+    "pinyin": "mail, postal items, V-mail, mailing, postal matter, post, postbag, posting",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "邮票",
+    "simplified": "yóupiào",
+    "pinyin": "postage_stamp, album, label, stamp, postage, postage stamp, stickies",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "由于",
+    "simplified": "yóuyú",
+    "pinyin": "conj.: owing/due/thanks to",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "邮箱",
+    "simplified": "yóuxiāng",
+    "pinyin": "mailbox, post office box",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "游戏",
+    "simplified": "yóuxì",
+    "pinyin": "game, CL:場|场[chang3], to play",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "游",
+    "simplified": "yóu",
+    "pinyin": "swim, float, travel, rove",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "游泳",
+    "simplified": "yóuyǒng",
+    "pinyin": "fin, swim, bathe",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "有的是",
+    "simplified": "yǒudeshì",
+    "pinyin": "have plenty of, there's no lack of",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "有利",
+    "simplified": "yǒulì",
+    "pinyin": "be advantageous/beneficial",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "有效",
+    "simplified": "yǒuxiào",
+    "pinyin": "run, stand, valid, effective, efficacious, avail, make, hold",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "预报",
+    "simplified": "yùbào",
+    "pinyin": "forecast",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "预防",
+    "simplified": "yùfáng",
+    "pinyin": "prevent, guard against",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "预计",
+    "simplified": "yùjì",
+    "pinyin": "estimate, view, predict, expect, calculate in advance, anticipate",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "员",
+    "simplified": "yuán",
+    "pinyin": "m.[general]",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "员工",
+    "simplified": "yuángōng",
+    "pinyin": "employee, personnel, reason, force, staff, cause",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "愿望",
+    "simplified": "yuànwàng",
+    "pinyin": "wish, desire, pleasure, Eros, will, orexis, desirability, dream, wishfulness, mind, mirage, wistfulness, aspiration, ambition, hope",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "约",
+    "simplified": "yuē",
+    "pinyin": "about, around",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "预习",
+    "simplified": "yùxí",
+    "pinyin": "to prepare a lesson",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "乐队",
+    "simplified": "yuèduì",
+    "pinyin": "orchestra, dance orchestra, dance band, band",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "运输",
+    "simplified": "yùnshū",
+    "pinyin": "transport",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "杂志",
+    "simplified": "zázhì",
+    "pinyin": "journal, bulletin, mag, magazine, periodical",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "早已",
+    "simplified": "zǎoyǐ",
+    "pinyin": "already, since, long ago, long ago/since, long since",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "造成",
+    "simplified": "zàochéng",
+    "pinyin": "make_for, give rise to, create, set_up, strike, creation, cause, contribute, bring_about, procure, give, bring about, cut_out, necessitate, shape, present, bring_forth, generate, yield, make, breed",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "责任",
+    "simplified": "zérèn",
+    "pinyin": "need, care, encumbrance, buck, accountability, blame, obligation, turn, load, responsibleness, incumbrance, responsibility, onus, commission, burden, commitment, loading, trust, pigeon, charge, business, fault, place, liability, duty, guardianship",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "增加",
+    "simplified": "zēngjiā",
+    "pinyin": "increase, raise, add",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "造",
+    "simplified": "zào",
+    "pinyin": "arrive at, training, create, go to, build, invent, construct, education, concoction, mint, invention, cook up, educate, establish, fabricate, make, concoct, train",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "增长",
+    "simplified": "zēngzhǎng",
+    "pinyin": "increase, grow",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "张",
+    "simplified": "zhāng",
+    "pinyin": "m.[general]",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "展开",
+    "simplified": "zhǎnkāi",
+    "pinyin": "spread out, unfold, open up, launch, develop",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "者",
+    "simplified": "zhě",
+    "pinyin": "nominal suffix, one who, -er",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "真实",
+    "simplified": "zhēnshí",
+    "pinyin": "true, real, authentic, factual",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "争取",
+    "simplified": "zhēngqǔ",
+    "pinyin": "strive for, fight for, wrangle, work hard for, contest, go for, strive/fight for, contend, try_for, woo, try for, strive, win over, scramble, do all one can to",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "争",
+    "simplified": "zhēng",
+    "pinyin": "be short of, disagree, argue, duel, arguement, compete, vie, dispute, contest, fence, be wanting, contend, debate, disputation, strive",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "照",
+    "simplified": "zhào",
+    "pinyin": "according to, in accordance with, towards",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "整",
+    "simplified": "zhěng",
+    "pinyin": "det.: exact",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "整理",
+    "simplified": "zhěnglǐ",
+    "pinyin": "put in order, arrange",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "整个",
+    "simplified": "zhěnggè",
+    "pinyin": "whole, entire, total",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "整齐",
+    "simplified": "zhěngqí",
+    "pinyin": "in good order, neat, tidy, even, regular",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "整天",
+    "simplified": "zhěngtiān",
+    "pinyin": "all day long, whole day",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "整整",
+    "simplified": "zhěngzhěng",
+    "pinyin": "fully, full, whole",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "整体",
+    "simplified": "zhěngtǐ",
+    "pinyin": "integrity, allness, entirety, integer, integral, monolith, entireness, ensemble, wholeness, entire, tout ensemble, whole, totality, unity",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "正式",
+    "simplified": "zhèngshì",
+    "pinyin": "formal (of actions/speeches/etc.)",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "正",
+    "simplified": "zhèng",
+    "pinyin": "precisely, punctually",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "证",
+    "simplified": "zhèng",
+    "pinyin": "certificate, proof, to prove, to demonstrate, to confirm, variant of 症[zheng4]",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "证据",
+    "simplified": "zhèngjù",
+    "pinyin": "support, telltale, testification, witness, case, testimonial, documentation, grounds, evidential, token, proof, earnest, testimony, cogent evidence, attestation, testament, evidence",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "证件",
+    "simplified": "zhèngjiàn",
+    "pinyin": "certificate, papers, credentials, document, ID",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "支",
+    "simplified": "zhī",
+    "pinyin": "m.[general]",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "支持",
+    "simplified": "zhīchí",
+    "pinyin": "sustain, hold out, bear;support, back, stand by",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "支付",
+    "simplified": "zhīfù",
+    "pinyin": "pay (money), defray",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "证明",
+    "simplified": "zhèngmíng",
+    "pinyin": "prove, testify, bear out",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "只",
+    "simplified": "zhǐ",
+    "pinyin": "only, merely",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "直播",
+    "simplified": "zhíbō",
+    "pinyin": "live broadcast (not recorded), direct Internet broadcasting, (agriculture) direct seeding",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "直",
+    "simplified": "zhí",
+    "pinyin": "directly, straight, continuously, just, simply",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "直到",
+    "simplified": "zhídào",
+    "pinyin": "until, up to",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "值得",
+    "simplified": "zhí de",
+    "pinyin": "be worth, merit, pay, rate, behove, worthwhile, worth, worthy, deserve, call_for, command",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "值",
+    "simplified": "zhí",
+    "pinyin": "be worth",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "职工",
+    "simplified": "zhígōng",
+    "pinyin": "workers, staff, CL:個|个[ge4]",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "职业",
+    "simplified": "zhíyè",
+    "pinyin": "metier, vocation, iceman, mystery, engagement, work, walk of life, employment, job, occupational group, ploy, craft, trade, avocation, employ, racket, pursuit, profession, situation, line, occupation, position, calling, walk_of_life, career, billet, duty, living, shop",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "只好",
+    "simplified": "zhǐhǎo",
+    "pinyin": "can only, have no choice but, have to, be forced to",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "只有",
+    "simplified": "zhǐyǒu",
+    "pinyin": "can only, have no choice but, to be forced to",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "只是",
+    "simplified": "zhǐshì",
+    "pinyin": "merely, only, just, simply be",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "指",
+    "simplified": "zhǐ",
+    "pinyin": "refer to",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "指导",
+    "simplified": "zhǐdǎo",
+    "pinyin": "guide, direct",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "指出",
+    "simplified": "zhǐchū",
+    "pinyin": "point, point_out, catch_out, bespeak, indicate, denote, point out (that), note, show, designate, point out",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "至少",
+    "simplified": "zhìshǎo",
+    "pinyin": "leastwise, leastways, at (the) least, at_least, only, fully, even a little, at least, at any rate, in the least, at least, at the least",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "至今",
+    "simplified": "zhìjīn",
+    "pinyin": "thus_far, up_to_now, until_now, so far, to this day, up to now, to date, hitherto, erenow",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "志愿者",
+    "simplified": "zhìyuànzhě",
+    "pinyin": "volunteer",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "制度",
+    "simplified": "zhìdù",
+    "pinyin": "ism, organization, dispensation, regimen, machine, regulations, form, system, regime, organisation, economy, institutional, institution",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "制定",
+    "simplified": "zhìdìng",
+    "pinyin": "formulate, draft",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "制作",
+    "simplified": "zhìzuò",
+    "pinyin": "make, manufacture",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "志愿",
+    "simplified": "zhìyuàn",
+    "pinyin": "aspiration, wish, ideal",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "制造",
+    "simplified": "zhìzào",
+    "pinyin": "make, manufacture, engineer, create, fabricate",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "中部",
+    "simplified": "zhōngbù",
+    "pinyin": "central section, middle",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "中华民族",
+    "simplified": "Zhōnghuámínzú",
+    "pinyin": "the Chinese nation, Ch. people",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "钟",
+    "simplified": "zhōng",
+    "pinyin": "timekeeper, timepiece, ticker, carillon, Zhong, time, bell, handleless cup, chime, gong, carillon playing, bell ringing, clock, Surname",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "终于",
+    "simplified": "zhōngyú",
+    "pinyin": "in the last analysis, at long last, at last, lastly, ultimately, all things considered, out, on the whole, at_last, eventually, in the final analysis, finally",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "种",
+    "simplified": "zhǒng",
+    "pinyin": "m.[kind]",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "种子",
+    "simplified": "zhǒngzi",
+    "pinyin": "pippin, berry, pip, edible seed, key, spore, seed, canary seed",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "周围",
+    "simplified": "zhōuwéi",
+    "pinyin": "all around, circumference, circumambience, compass, ambit, periphery, circumambiency, round, surrounding, perimeter, environment, precinct, vicinity, circuit, ambience, around",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "重大",
+    "simplified": "zhòngdà",
+    "pinyin": "great, major, crucial, weighty, whang, fatal, significant, grave",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "猪",
+    "simplified": "zhū",
+    "pinyin": "piggy, porcine, pig, porker, hoggery, Sus scrofa, piggish, hog, piggery, swine",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "主持",
+    "simplified": "zhǔchí",
+    "pinyin": "preside, head, care of, take care of, preside over, chair, minister, sponsor, direct, uphold, direction, take charge/care of, take charge of, moderate, emcee, celebrate, manage, host, mastermind, officiate, stand for, managment, run, take charge, compere",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "主动",
+    "simplified": "zhǔdòng",
+    "pinyin": "on one's own initiative",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "主张",
+    "simplified": "zhǔzhāng",
+    "pinyin": "advocate, stand for, maintain, hold",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "主意",
+    "simplified": "zhǔyi",
+    "pinyin": "idea, plan, decision, definite view",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "主任",
+    "simplified": "zhǔrèn",
+    "pinyin": "head, principal, captain, chair, director, head teacher, chief, chairman, school principal",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "抓",
+    "simplified": "zhuā",
+    "pinyin": "clutch, cop, grab, press-gang, scrape, arrest, hent, catch, pay special attention to, be responsible for, scratch up, take charge of, paw, grasp, scratch, claw, nab, clapperclaw, glom, seize, capture, snatch, prehend, stress",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "祝",
+    "simplified": "zhù",
+    "pinyin": "bless, invoke blessing, express good wishes, wish",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "注意",
+    "simplified": "zhù yì",
+    "pinyin": "pay attention to, take note of",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "专家",
+    "simplified": "zhuānjiā",
+    "pinyin": "guru, pundit, adept, expertise, professional person, specializer, specialist, proficient, whiz, oner, expert, swami, savant, dab, professional, authority, stunner, technician",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "专门",
+    "simplified": "zhuānmén",
+    "pinyin": "special, specialized",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "抓住",
+    "simplified": "zhuā zhù",
+    "pinyin": "clutch, grip, grab, kep, nail, grapple, get_hold_of, catch, seize hold of, take_hold_of, grip sb.'s attention, cleek, grasp, hold, nab, seize, tackle, capture, snatch, take, take hold of, prehend, catch hold of, glaum, hold on",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "专题",
+    "simplified": "zhuāntí",
+    "pinyin": "special subject/topic",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "专业",
+    "simplified": "zhuānyè",
+    "pinyin": "professional",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "转",
+    "simplified": "zhuǎn",
+    "pinyin": "turn, revolve, rotate",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "转变",
+    "simplified": "zhuǎnbiàn",
+    "pinyin": "change, transform",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "状况",
+    "simplified": "zhuàngkuàng",
+    "pinyin": "repair, background, picture, state (of affairs), state of affairs, status, gear, scene, setting, scope, condition, state, circumstance, trimness, context, showing, trim, factor, condition/state (of affairs), situation, shoes, consideration, place",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "状态",
+    "simplified": "zhuàngtài",
+    "pinyin": "repair, form, lie, state (of affairs), state of affairs, fix, status, going, plight, phase, condition, state, trimness, attitude, trim, shape, situation, posture, position, fettle, mode, predicament",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "准",
+    "simplified": "zhǔn",
+    "pinyin": "accurate, exact",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "资格",
+    "simplified": "zīge",
+    "pinyin": "claim, credential, prerequisite, character, capability, qualifications, requirement, qualification, capacity, root/basis part of a character, status, sufficiency, seniority, competence, fitness, competency, condition",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "追",
+    "simplified": "zhuī",
+    "pinyin": "reminiscence, to pursue, course, reminisce, trace, chase after, recall, follow, chase, pursue, go after, to chase after, look into, pursuit, heel, chevy, find out, get to the bottom of, seek, run after",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "资金",
+    "simplified": "zījīn",
+    "pinyin": "principal_sum, fund, bankroll, finance, coffer, ante, grubstake, munition, wherewithal, capital, working capital",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "自从",
+    "simplified": "zìcóng",
+    "pinyin": "since",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "子女",
+    "simplified": "zǐnǚ",
+    "pinyin": "sons and daughters, children",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "自动",
+    "simplified": "zìdòng",
+    "pinyin": "automatic",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "自然",
+    "simplified": "zìran",
+    "pinyin": "natural world",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "自觉",
+    "simplified": "zìjué",
+    "pinyin": "be conscious/aware",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "自身",
+    "simplified": "zìshēn",
+    "pinyin": "self, oneself",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "总",
+    "simplified": "zǒng",
+    "pinyin": "always, invariably, anyway, after all, inevitably, sooner or later",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "自主",
+    "simplified": "zìzhǔ",
+    "pinyin": "be one's own master, take initiative",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "足够",
+    "simplified": "zúgòu",
+    "pinyin": "fully, enough, last, amply, suffice, sufficiently",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "总是",
+    "simplified": "zǒngshì",
+    "pinyin": "always",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "组合",
+    "simplified": "zǔhé",
+    "pinyin": "make up, compose, unite",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "足球",
+    "simplified": "zúqiú",
+    "pinyin": "soccer, football",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "作品",
+    "simplified": "zuòpǐn",
+    "pinyin": "writing, musical composition, whole kit and caboodle, works (of literature, artwork, kit and caboodle, product, whole works, creation, full treatment, kit and boodle, whole kit and boodle, works (of literature/art), composition, thing, piece of music, workpiece, output, art), written material, opus, whole shebang, whole caboodle, production, whole kit, piece, workmanship, wo",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "左右",
+    "simplified": "zuǒyòu",
+    "pinyin": "left and right",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "总结",
+    "simplified": "zǒngjié",
+    "pinyin": "to sum up, to conclude, summary, résumé, CL:個|个[ge4]",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "做客",
+    "simplified": "zuò kè",
+    "pinyin": "to be a guest or visitor",
+    "definitions": ""
+  },
+  {
+    "id": null,
+    "traditional": "作者",
+    "simplified": "zuòzhě",
+    "pinyin": "composer, author, writer, wright, paragrapher, auteur, paternity",
+    "definitions": ""
+  }
+]
