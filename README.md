@@ -83,6 +83,34 @@ It also contains list for [Anki decks](https://github.com/krmanik/Anki-xiehanzi)
 - [HSK 6](<New%20HSK%20(2021)/HSK%20Grammar/HSK%206.txt>)
 - [HSK 7-9](<New%20HSK%20(2021)/HSK%20Grammar/HSK%207-9.txt>)
 
+## Flashcard Web App
+
+The `webapp/` directory contains a Vue 3 + Vite flashcard app built from the HSK word lists.
+
+### Prerequisites
+
+- [Node.js](https://nodejs.org/) 18+ and npm
+
+### Run locally
+
+```bash
+cd webapp
+npm install
+npm run dev
+```
+
+Vite prints a local URL (default `http://localhost:5173/`). Open it in your browser.
+
+### Build for production
+
+```bash
+cd webapp
+npm run build
+npm run preview
+```
+
+`npm run build` outputs static files to `webapp/dist/`. `npm run preview` serves that build locally for verification.
+
 ### License
 
 View [License](License.md)
