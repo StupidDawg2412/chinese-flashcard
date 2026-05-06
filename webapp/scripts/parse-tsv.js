@@ -1,7 +1,6 @@
 export function parseTSVLine(line) {
-  const [num, traditional, simplified, pinyin, definitions] = line.split('\t')
+  const [traditional, simplified, pinyin, definitions] = line.split('\t')
   return {
-    id: parseInt(num),
     traditional: traditional?.trim() ?? '',
     simplified: simplified?.trim() ?? '',
     pinyin: pinyin?.trim() ?? '',
@@ -10,5 +9,10 @@ export function parseTSVLine(line) {
 }
 
 export function parseTSV(raw) {
-  return raw.trim().split('\n').map(parseTSVLine).filter(w => w.simplified)
+  return raw
+    .trim()
+    .split('\n')
+    .map(parseTSVLine)
+    .filter(w => w.simplified)
+    .map((w, i) => ({ id: i + 1, ...w }))
 }

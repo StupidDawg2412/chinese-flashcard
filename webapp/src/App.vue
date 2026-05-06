@@ -8,6 +8,9 @@ import hsk2Raw from './data/hsk2.json'
 import hsk3Raw from './data/hsk3.json'
 import hsk4Raw from './data/hsk4.json'
 import hsk5Raw from './data/hsk5.json'
+import audioIndex from './data/audio-index.json'
+
+const audioSet = new Set(audioIndex)
 
 const COLORS = { 1: '#38BDF8', 2: '#34D399', 3: '#FBBF24', 4: '#FB7185', 5: '#A78BFA', all: '#94A3B8' }
 
@@ -43,10 +46,24 @@ const levelCounts = computed(() => {
 
 const audioEl = ref(null)
 
+function speakTTS(text) {
+  if (!('speechSynthesis' in window)) return
+  window.speechSynthesis.cancel()
+  const u = new SpeechSynthesisUtterance(text)
+  u.lang = 'zh-CN'
+  u.rate = 0.9
+  window.speechSynthesis.speak(u)
+}
+
 function playAudio() {
-  if (!card.value || !audioEl.value) return
-  audioEl.value.src = `/audio/cmn-${card.value.simplified}.mp3`
-  audioEl.value.play().catch(() => {})
+  if (!card.value) return
+  const word = card.value.simplified
+  if (audioSet.has(word) && audioEl.value) {
+    audioEl.value.src = `/audio/cmn-${word}.mp3`
+    audioEl.value.play().catch(() => speakTTS(word))
+  } else {
+    speakTTS(word)
+  }
 }
 
 function handleKey(e) {

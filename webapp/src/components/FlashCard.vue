@@ -9,6 +9,9 @@ const props = defineProps({
 })
 const emit = defineEmits(['flip'])
 
+const hanzi = computed(() => props.card.simplified || '')
+const pinyin = computed(() => props.card.pinyin || '')
+
 const topDefs = computed(() => {
   if (!props.card.definitions) return []
   return props.card.definitions
@@ -29,15 +32,16 @@ const showTraditional = computed(() =>
       <div class="card-face card-front" :style="{ '--accent': levelColor }">
         <div class="card-badge" :style="{ background: levelColor }">HSK {{ card.level }}</div>
         <div v-if="isKnown" class="known-mark">✓</div>
-        <div class="card-hanzi">{{ card.simplified }}</div>
+        <div class="card-hanzi">{{ hanzi }}</div>
+        <div v-if="pinyin" class="card-pinyin card-pinyin-sm">{{ pinyin }}</div>
         <div class="card-hint">tap to reveal</div>
       </div>
 
       <div class="card-face card-back" :style="{ '--accent': levelColor }">
         <div class="card-badge" :style="{ background: levelColor }">HSK {{ card.level }}</div>
         <div v-if="isKnown" class="known-mark">✓</div>
-        <div class="card-hanzi card-hanzi-sm">{{ card.simplified }}</div>
-        <div class="card-pinyin">{{ card.pinyin }}</div>
+        <div class="card-hanzi card-hanzi-sm">{{ hanzi }}</div>
+        <div class="card-pinyin">{{ pinyin }}</div>
         <div v-if="showTraditional" class="card-traditional">{{ card.traditional }}</div>
         <div class="card-defs">
           <span v-for="(def, i) in topDefs" :key="i" class="card-def">{{ def }}</span>
@@ -90,7 +94,7 @@ const showTraditional = computed(() =>
   position: absolute;
   top: 16px;
   left: 16px;
-  font-size: 11px;
+  font-size: 12px;
   font-weight: 700;
   padding: 3px 8px;
   border-radius: 6px;
@@ -102,36 +106,40 @@ const showTraditional = computed(() =>
   position: absolute;
   top: 14px;
   right: 16px;
-  font-size: 16px;
+  font-size: 17px;
   color: #34D399;
   font-weight: 700;
 }
 
 .card-hanzi {
-  font-size: 88px;
+  font-size: 93px;
   line-height: 1;
   font-weight: 300;
   color: #f0f0ff;
   letter-spacing: -2px;
 }
-.card-hanzi-sm { font-size: 42px; margin-bottom: 0; }
+.card-hanzi-sm { font-size: 45px; margin-bottom: 0; }
 
 .card-hint {
-  font-size: 12px;
+  font-size: 13px;
   color: #444466;
   position: absolute;
   bottom: 18px;
 }
 
 .card-pinyin {
-  font-size: 28px;
+  font-size: 30px;
   color: var(--accent, #94A3B8);
   font-weight: 500;
   letter-spacing: 0.02em;
 }
+.card-pinyin-sm {
+  font-size: 19px;
+  margin-top: 4px;
+}
 
 .card-traditional {
-  font-size: 16px;
+  font-size: 17px;
   color: #666688;
 }
 
@@ -144,12 +152,12 @@ const showTraditional = computed(() =>
 }
 
 .card-def {
-  font-size: 14px;
+  font-size: 15px;
   color: #a0a0c0;
   text-align: center;
 }
 .card-def:first-child {
-  font-size: 18px;
+  font-size: 19px;
   color: #d0d0f0;
   font-weight: 500;
 }
