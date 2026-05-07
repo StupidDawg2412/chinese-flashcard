@@ -55,7 +55,7 @@ export default defineConfig({
         maximumFileSizeToCacheInBytes: 10 * 1024 * 1024,
         runtimeCaching: [
           {
-            urlPattern: ({ url }) => url.pathname.startsWith('/audio/'),
+            urlPattern: ({ url }) => url.pathname.includes('/audio/'),
             handler: 'CacheFirst',
             options: {
               cacheName: 'audio-cache',
